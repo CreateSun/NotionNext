@@ -12,6 +12,7 @@ import ArticleAround from './components/ArticleAround'
 import ArticleInfo from './components/ArticleInfo'
 import BlogListPage from './components/BlogListPage'
 import Catalog from './components/Catalog'
+import CustomCursor from './components/CustomCursor'
 import Footer from './components/Footer'
 import Header from './components/Header'
 import RecommendPosts from './components/RecommendPosts'
@@ -55,6 +56,9 @@ const LayoutBase = props => {
         id='theme-editorial'
         className={`${siteConfig('FONT_STYLE')} ${router.pathname === '/' ? 'editorial-home' : 'editorial-subpage'}`}>
         <Style />
+        {siteConfig('EDITORIAL_CURSOR_ENABLE', true, CONFIG) && (
+          <CustomCursor />
+        )}
         <Header
           customNav={props.customNav}
           customMenu={props.customMenu}

@@ -19,6 +19,9 @@ export const THEME_SWITCH_MANIFEST = {
       { key: 'EDITORIAL_HERO_TITLE', label: '首页主标题', type: 'text', defaultValue: '' },
       { key: 'EDITORIAL_HERO_DESCRIPTION', label: '首页引言', type: 'text', defaultValue: '' },
       { key: 'EDITORIAL_SHOW_HERO', label: '显示首页导语', type: 'boolean', defaultValue: true },
+      { key: 'EDITORIAL_GRID_ENABLE', label: '显示网格背景', type: 'boolean', defaultValue: true },
+      { key: 'EDITORIAL_GRID_SIZE', label: '网格尺寸', type: 'number', defaultValue: 44 },
+      { key: 'EDITORIAL_CURSOR_ENABLE', label: '显示自定义光标', type: 'boolean', defaultValue: true },
       { key: 'EDITORIAL_POST_LIST_COVER', label: '显示文章封面', type: 'boolean', defaultValue: true },
       { key: 'EDITORIAL_TOC_ENABLE', label: '显示文章目录', type: 'boolean', defaultValue: true }
     ],
@@ -29,12 +32,14 @@ export const THEME_SWITCH_MANIFEST = {
       { key: 'EDITORIAL_COLOR_TEXT', cssVar: '--editorial-color-text', label: '正文颜色', defaultValue: '#1d1b18' },
       { key: 'EDITORIAL_COLOR_TEXT_SECONDARY', cssVar: '--editorial-color-text-secondary', label: '次要文字', defaultValue: '#6b6560' },
       { key: 'EDITORIAL_COLOR_BORDER', cssVar: '--editorial-color-border', label: '分隔线', defaultValue: '#e3e0d5' },
+      { key: 'EDITORIAL_COLOR_GRID', cssVar: '--editorial-grid-line-light', label: '网格线', defaultValue: 'rgba(29, 27, 24, 0.07)' },
       { key: 'EDITORIAL_COLOR_PRIMARY_DARK', cssVar: '--editorial-color-primary-dark', label: '深色模式：强调色', defaultValue: '#dc8a68' },
       { key: 'EDITORIAL_COLOR_BG_DARK', cssVar: '--editorial-color-bg-dark', label: '深色模式：背景', defaultValue: '#141413' },
       { key: 'EDITORIAL_COLOR_CARD_DARK', cssVar: '--editorial-color-card-dark', label: '深色模式：内容表面', defaultValue: '#1d1c19' },
       { key: 'EDITORIAL_COLOR_TEXT_DARK', cssVar: '--editorial-color-text-dark', label: '深色模式：正文', defaultValue: '#ece9df' },
       { key: 'EDITORIAL_COLOR_TEXT_SECONDARY_DARK', cssVar: '--editorial-color-text-secondary-dark', label: '深色模式：次要文字', defaultValue: '#aaa59b' },
-      { key: 'EDITORIAL_COLOR_BORDER_DARK', cssVar: '--editorial-color-border-dark', label: '深色模式：分隔线', defaultValue: '#34322d' }
+      { key: 'EDITORIAL_COLOR_BORDER_DARK', cssVar: '--editorial-color-border-dark', label: '深色模式：分隔线', defaultValue: '#34322d' },
+      { key: 'EDITORIAL_COLOR_GRID_DARK', cssVar: '--editorial-grid-line-dark', label: '深色模式：网格线', defaultValue: 'rgba(232, 228, 223, 0.08)' }
     ]
   },
   endspace: {

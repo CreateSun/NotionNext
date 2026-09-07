@@ -1,8 +1,15 @@
 /* eslint-disable react/no-unknown-property */
+import { siteConfig } from '@/lib/config'
 import { themeConsoleStyle } from '@/lib/themeConsoleStyle'
 import CONFIG from './config'
 
 export const Style = () => {
+  const gridEnabled = siteConfig('EDITORIAL_GRID_ENABLE', true, CONFIG)
+  const gridSize = Math.max(
+    12,
+    Number(siteConfig('EDITORIAL_GRID_SIZE', 44, CONFIG)) || 44
+  )
+
   return (
     <style jsx global>{`
       ${themeConsoleStyle('editorial', CONFIG)}
@@ -14,13 +21,30 @@ export const Style = () => {
         --editorial-secondary: var(--editorial-console-text-secondary);
         --editorial-accent: var(--editorial-console-primary);
         --editorial-border: var(--editorial-console-border);
+        --editorial-grid-line-light: ${siteConfig('EDITORIAL_COLOR_GRID', CONFIG.EDITORIAL_COLOR_GRID, CONFIG)};
+        --editorial-grid-line-dark: ${siteConfig('EDITORIAL_COLOR_GRID_DARK', CONFIG.EDITORIAL_COLOR_GRID_DARK, CONFIG)};
+        --editorial-grid-line: var(--editorial-grid-line-light);
         --editorial-serif: Georgia, 'Times New Roman', 'Songti SC', 'Noto Serif CJK SC', serif;
         --editorial-sans: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
-        min-height: 100vh; background: var(--editorial-bg); color: var(--editorial-text);
+        min-height: 100vh;
+        background-color: var(--editorial-bg);
+        background-image: ${gridEnabled
+          ? 'linear-gradient(var(--editorial-grid-line) 1px, transparent 1px), linear-gradient(90deg, var(--editorial-grid-line) 1px, transparent 1px)'
+          : 'none'};
+        background-size: ${gridSize}px ${gridSize}px;
+        color: var(--editorial-text);
         font-family: var(--editorial-sans); transition: background-color .25s ease, color .25s ease;
       }
+      .dark #theme-editorial { --editorial-grid-line: var(--editorial-grid-line-dark); }
       #theme-editorial ::selection { background: var(--editorial-accent); color: #fff; }
       #theme-editorial a { color: inherit; text-decoration: none; }
+      #theme-editorial.editorial-fancy-cursor, #theme-editorial.editorial-fancy-cursor a, #theme-editorial.editorial-fancy-cursor button, #theme-editorial.editorial-fancy-cursor input, #theme-editorial.editorial-fancy-cursor textarea, #theme-editorial.editorial-fancy-cursor select, #theme-editorial.editorial-fancy-cursor [role='button'] { cursor: none; }
+      .editorial-cursor-dot, .editorial-cursor-circle { position: fixed; top: 0; left: 0; border-radius: 999px; pointer-events: none; opacity: 0; transform: translate(-50%, -50%); }
+      .editorial-cursor-dot { width: 6px; height: 6px; z-index: 99999; background: var(--editorial-text); transition: transform .15s ease, opacity .3s ease; }
+      .editorial-cursor-circle { width: 44px; height: 44px; z-index: 99998; border: 1.5px solid color-mix(in srgb, var(--editorial-accent) 20%, transparent); background: color-mix(in srgb, var(--editorial-bg) 18%, transparent); -webkit-backdrop-filter: blur(1.5px) saturate(.92); backdrop-filter: blur(1.5px) saturate(.92); box-shadow: inset 0 0 0 .5px color-mix(in srgb, var(--editorial-bg) 55%, transparent), 0 2px 10px color-mix(in srgb, var(--editorial-text) 3%, transparent); transition: width .4s cubic-bezier(.16,1,.3,1), height .4s cubic-bezier(.16,1,.3,1), border-color .3s ease, background-color .3s ease, box-shadow .3s ease, opacity .3s ease; }
+      .editorial-cursor-visible .editorial-cursor-dot, .editorial-cursor-visible .editorial-cursor-circle { opacity: 1; }
+      .editorial-cursor-hover .editorial-cursor-dot { opacity: 0; transform: translate(-50%, -50%) scale(0); }
+      .editorial-cursor-hover .editorial-cursor-circle { width: 64px; height: 64px; border-color: var(--editorial-accent); background: color-mix(in srgb, var(--editorial-accent) 6%, color-mix(in srgb, var(--editorial-bg) 18%, transparent)); box-shadow: inset 0 0 0 .5px color-mix(in srgb, var(--editorial-bg) 45%, transparent), 0 3px 14px color-mix(in srgb, var(--editorial-accent) 5%, transparent); }
       .editorial-header { position: sticky; top: 0; z-index: 40; border-bottom: 1px solid var(--editorial-border); background: var(--editorial-bg); background: color-mix(in srgb, var(--editorial-bg) 91%, transparent); backdrop-filter: blur(16px); }
       .editorial-header-inner { max-width: 1280px; min-height: 72px; margin: auto; padding: 0 32px; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 28px; }
       .editorial-brand { display: inline-flex; align-items: center; gap: 10px; width: fit-content; font-family: var(--editorial-serif); font-size: 19px; font-weight: 700; }
