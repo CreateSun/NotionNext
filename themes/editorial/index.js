@@ -1,4 +1,3 @@
-import { AdSlot } from '@/components/GoogleAdsense'
 import replaceSearchResult from '@/components/Mark'
 import NotionPage from '@/components/NotionPage'
 import SmartLink from '@/components/SmartLink'
@@ -34,8 +33,6 @@ const JumpToTopButton = dynamic(
   () => import('../simple/components/JumpToTopButton'),
   { ssr: false }
 )
-const WWAds = dynamic(() => import('@/components/WWAds'), { ssr: false })
-
 const EditorialContext = createContext(null)
 export const useEditorialGlobal = () => useContext(EditorialContext)
 
@@ -54,7 +51,8 @@ const LayoutBase = props => {
     <EditorialContext.Provider value={{ searchModal }}>
       <div
         id='theme-editorial'
-        className={`${siteConfig('FONT_STYLE')} ${router.pathname === '/' ? 'editorial-home' : 'editorial-subpage'}`}>
+        className={`${siteConfig('FONT_STYLE')} ${router.pathname === '/' ? 'editorial-home' : 'editorial-subpage'}`}
+      >
         <Style />
         {siteConfig('EDITORIAL_CURSOR_ENABLE', true, CONFIG) && (
           <CustomCursor />
@@ -65,7 +63,8 @@ const LayoutBase = props => {
           searchModal={searchModal}
         />
         <main
-          className={`editorial-shell ${showToc ? 'editorial-shell-with-toc' : ''}`}>
+          className={`editorial-shell ${showToc ? 'editorial-shell-with-toc' : ''}`}
+        >
           <div className='editorial-main'>
             {onLoading ? (
               <div className='editorial-loading' aria-label='Loading'>
@@ -74,7 +73,6 @@ const LayoutBase = props => {
             ) : (
               children
             )}
-            <AdSlot type='native' />
           </div>
           {showToc && (
             <aside className='editorial-toc-aside'>
@@ -204,11 +202,9 @@ const LayoutSlug = props => {
       {!lock && post && (
         <article className='editorial-article'>
           <ArticleInfo post={post} />
-          <WWAds orientation='horizontal' className='w-full' />
           <div id='article-wrapper'>
             <NotionPage post={post} />
           </div>
-          <AdSlot type='in-article' />
           {post.type === 'Post' && (
             <>
               <ArticleAround prev={prev} next={next} />
@@ -261,7 +257,8 @@ const Taxonomy = ({ eyebrow, title, items, basePath, icon }) => (
         <SmartLink
           key={item.name}
           href={`${basePath}${encodeURIComponent(item.name)}`}
-          className='editorial-taxonomy-item'>
+          className='editorial-taxonomy-item'
+        >
           <i className={`fas fa-${icon}`} aria-hidden='true' />
           <strong>{item.name}</strong>
           <small>{String(item.count || 0).padStart(2, '0')}</small>
