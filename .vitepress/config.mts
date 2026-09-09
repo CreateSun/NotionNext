@@ -16,9 +16,20 @@ const giscusCategoryId = process.env.VITE_GISCUS_CATEGORY_ID || ''
  * 根目录 README 仍作为 GitHub 目录说明，不进入 VitePress。
  */
 const hiddenPublicDocPaths = ['user-guide/deploy/cloudflare-pages-docs.md']
+const hiddenPublicDocPrefixes = ['research/x-creators/']
+
+function isHiddenPublicDoc(repoPath: string) {
+  const docPath = repoPath.replace(/^docs\//, '')
+  return (
+    hiddenPublicDocPaths.includes(docPath) ||
+    hiddenPublicDocPrefixes.some(prefix => docPath.startsWith(prefix))
+  )
+}
+
 const srcExclude = [
   '**/README.md',
   '**/README.en.md',
+  ...hiddenPublicDocPrefixes.map(prefix => `**/${prefix}**`),
   ...hiddenPublicDocPaths.map((path) => `**/${path}`)
 ]
 
@@ -68,7 +79,7 @@ function getUpdatedDocs() {
         !repoPath.endsWith('/README.md') &&
         !repoPath.endsWith('/README.en.md') &&
         !repoPath.includes('/public/') &&
-        !hiddenPublicDocPaths.includes(repoPath.replace(/^docs\//, ''))
+        !isHiddenPublicDoc(repoPath)
       )
     })
 

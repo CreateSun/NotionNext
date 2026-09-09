@@ -24,10 +24,17 @@ const THEMES = [
 ]
 
 function clean(text = '') {
-  return text
+  return String(text)
     .replace(/https?:\/\/t\.co\/\w+/g, '')
     .replace(/\s+/g, ' ')
     .trim()
+}
+
+function escapeMarkdownText(text = '') {
+  return clean(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
 }
 
 function clip(text, length = 180) {
@@ -36,7 +43,7 @@ function clip(text, length = 180) {
 }
 
 function tableCell(text = '') {
-  return clean(String(text)).replace(/\|/g, '\\|')
+  return escapeMarkdownText(text).replace(/\|/g, '\\|')
 }
 
 function formatMetric(value = 0) {
@@ -101,6 +108,7 @@ async function main() {
   const index = []
 
   for (const account of accounts) {
+    const accountName = clean(account.profile.name)
     const recent = JSON.parse(
       await fs.readFile(
         path.join(BASE, 'phase-3/raw', account.username + '.recent.raw.json'),
@@ -143,7 +151,7 @@ async function main() {
     )
     const productNames = goodPages
       .slice(0, 2)
-      .map(page => page.title || new URL(page.finalUrl).hostname)
+      .map(page => clean(page.title || new URL(page.finalUrl).hostname))
     const primaryThemes = themes.join('、') || '个人专业表达'
     const creatorType = account.categories.includes('独立开发者')
       ? '独立开发者'
@@ -151,7 +159,7 @@ async function main() {
         ? '出海从业者'
         : account.categories[0] || '创作者'
     const summary = goodPages.length
-      ? account.profile.name +
+      ? accountName +
         '是一位聚焦 ' +
         primaryThemes +
         '的' +
@@ -163,7 +171,7 @@ async function main() {
           ? '公开页面已出现商业化线索，但实际收入结构仍需结合实时产品页判断。'
           : '现阶段更适合关注产品定位与流量承接，具体收入模式尚未完整公开。')
       : '从内容积累与专业定位看，' +
-        account.profile.name +
+        accountName +
         '是一位颇具实力的' +
         creatorType +
         '，长期围绕 ' +
@@ -182,14 +190,14 @@ async function main() {
     })[0]
     const lines = [
       '# ' +
-        account.profile.name +
+        escapeMarkdownText(accountName) +
         '（@' +
         account.username +
         '）产品与内容分析',
       '',
       '## 核心判断',
       '',
-      '> ' + summary,
+      '> ' + escapeMarkdownText(summary),
       '',
       '## 账号概览',
       '',
@@ -243,7 +251,13 @@ async function main() {
         '- 公开页面出现以下定价或付费线索，可用于判断产品设计，但不等同于实际收入：'
       )
       for (const item of pricing)
-        lines.push('  - ' + item.text + '（[来源](' + item.url + ')）')
+        lines.push(
+          '  - ' +
+            escapeMarkdownText(item.text) +
+            '（[来源](' +
+            item.url +
+            ')）'
+        )
     } else
       lines.push(
         '- 暂未看到足够清晰的公开价格。更可能的转化方式需要结合产品内页、销售流程或后续访谈确认，不对收入规模作外推。'
@@ -283,7 +297,8 @@ async function main() {
       '## 长期主张与置顶内容',
       ''
     )
-    if (pinnedPost) lines.push('> ' + clip(pinnedPost.text, 600))
+    if (pinnedPost)
+      lines.push('> ' + escapeMarkdownText(clip(pinnedPost.text, 600)))
     else if (account.profile.pinned_tweet_id)
       lines.push(
         '主页保留了置顶内容入口，但当前帖子已不可读取。本报告不对缺失内容作推断。'

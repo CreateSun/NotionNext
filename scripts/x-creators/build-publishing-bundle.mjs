@@ -31,6 +31,10 @@ function firstParagraph(markdown) {
     .slice(0, 240)
 }
 
+function escapeTableCell(value) {
+  return String(value).replace(/\|/g, '\\|').replace(/\r?\n/g, ' ')
+}
+
 async function main() {
   const profiles = JSON.parse(
     await fs.readFile(path.join(BASE, 'phase-1/profiles.json'), 'utf8')
@@ -40,6 +44,9 @@ async function main() {
     await fs.readFile(path.join(BASE, 'phase-3/report-index.json'), 'utf8')
   )
   const reportMeta = new Map(reportIndex.map(item => [item.username, item]))
+  const productAnalysis = JSON.parse(
+    await fs.readFile(path.join(BASE, 'product-analysis-summary.json'), 'utf8')
+  )
   const pages = []
   for (const account of accounts) {
     const phase = PILOTS.has(account.username) ? 'phase-2' : 'phase-3'
@@ -127,6 +134,42 @@ async function main() {
         {}
       )
   ).sort((a, b) => b[1] - a[1])
+  const pageHandles = new Set(pages.map(page => page.username))
+  const missingAnalysis = pages
+    .filter(page => !productAnalysis[page.username]?.trim())
+    .map(page => page.username)
+  const unknownAnalysis = Object.keys(productAnalysis).filter(
+    username => !pageHandles.has(username)
+  )
+  if (missingAnalysis.length || unknownAnalysis.length) {
+    throw new Error(
+      '报告总结映射不完整：缺少 ' +
+        (missingAnalysis.join(', ') || '无') +
+        '；多余 ' +
+        (unknownAnalysis.join(', ') || '无')
+    )
+  }
+  const reportSummaryTable = [
+    '## 报告总结',
+    '',
+    '| 分类 | 博主名 | 产品分析 |',
+    '| --- | --- | --- |',
+    ...pages.map(page => {
+      const bloggerName = page.title.replace(/产品与内容分析$/, '')
+      return (
+        '| ' +
+        escapeTableCell(page.categories.join('、')) +
+        ' | [' +
+        escapeTableCell(bloggerName) +
+        '](' +
+        ARTICLE_BASE_URL +
+        page.slug +
+        ') | ' +
+        escapeTableCell(productAnalysis[page.username]) +
+        ' |'
+      )
+    })
+  ].join('\n')
   const sections = categoryCounts
     .map(
       ([category, count]) =>
@@ -149,7 +192,7 @@ async function main() {
     )
     .join('\n\n')
   const overviewContent = [
-    '> 本研究基于 2026-09-09 的 X API 主页、近期原创帖、置顶帖和公开产品页面。53 人来自原始 68 个唯一账号的主页外链筛选，另加入用户指定的 @ruguodev，共 54 人；分类存在交叉，因此分类合计会超过 54。',
+    '> 本研究基于 2026-09-09 的 X API 主页、近期原创帖、置顶帖和公开产品页面。原始博主列表取自 [AI_Jasonyu 发布的 X 帖子](https://x.com/AI_Jasonyu/status/2030166779096658161)中的数据；53 人来自原始 68 个唯一账号的主页外链筛选，另加入用户指定的 @ruguodev，共 54 人；分类存在交叉，因此分类合计会超过 54。',
     '',
     '## 核心观察',
     '',
@@ -164,6 +207,8 @@ async function main() {
     '- 36 条可用置顶内容用于补充创作者长期主张与重点项目。',
     '- 首轮检查 84 个站外页面；随后使用内嵌浏览器复查未完整加载的入口，并将 20 个相关页面补充进个人报告。',
     '- @ruguodev 的个人主页与 3 个产品入口均已纳入分析。',
+    '',
+    reportSummaryTable,
     '',
     sections,
     '',
