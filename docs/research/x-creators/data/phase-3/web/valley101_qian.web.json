@@ -1,0 +1,59 @@
+{
+  "username": "valley101_qian",
+  "capturedAt": "2026-09-09T08:59:48.348Z",
+  "pages": [
+    {
+      "requestedUrl": "https://www.youtube.com/@TheValley101",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:45.990Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://linkedin.com/in/qianchen",
+      "finalUrl": "https://www.linkedin.com/in/qianchen",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:48.334Z",
+      "title": "Qian Chen - Valley101.Inc｜硅谷101 | LinkedIn",
+      "description": "Hi there, I'm a media entrepreneur based in Silicon Valley with 10+ years of TV… · Experience: Valley101.Inc｜硅谷101 · Education: Stanford University · Location: Palo Alto · 500+ connections on LinkedIn. View Qian Chen’s profile on LinkedIn, a professional community of 1 billion members.",
+      "headings": [
+        "Sign in to view Qian’s full profile",
+        "Qian Chen",
+        "Sign in to view Qian’s full profile",
+        "Palo Alto, California, United States Contact Info Sign in to view Qian’s full profile",
+        "View mutual connections with Qian",
+        "Sign in to view Qian’s full profile",
+        "About",
+        "Welcome back",
+        "Activity",
+        "3K followers",
+        "Qian Chen",
+        "Yiwen Lu",
+        "Qian Chen",
+        "Qian Chen",
+        "Qian Chen",
+        "AI Investment Summit 2025@ UC Berkeley",
+        "Howie Xu",
+        "Qian Chen",
+        "Zheqing (Bill) Zhu",
+        "Qian Chen",
+        "CASPA - Chinese American Semiconductor Professional Assoc.",
+        "Qian Chen",
+        "Eric H.",
+        "Qian Chen",
+        "Eric H.",
+        "Andrew Dai",
+        "Yiwen Lu",
+        "Dan Zhang",
+        "David M. Van Slyke",
+        "Lawrence McDonald"
+      ],
+      "pricingSnippets": [
+        "Zhu Zheqing (Bill) Zhu 1y Qian Chen shared this We are thrilled to announce that Pokee AI raised a $12 million seed round, 3x oversubscribed in latest fundraising. Pokee AI is founded with a single mission, to automate every human workflow on the internet throu",
+        "ves you’ve touched. David M. Van Slyke David M. Van Slyke 3mo Qian Chen liked this She arrived with $500, no safety net, and a sociology degree. She left with two Maxwell master's degrees and eventually the CFO seat at ClickUp , a fast-growing AI platform she in",
+        "s an invitation. #HigherEducation #PublicAffairs #WomenInFinance #ROI https://lnkd.in/eu5Zvy7q From $500 and a Dream to CFO: Alumna Dan Zhang Is Opening Doors for the Next Generation From $500 and a Dream to CFO: Alumna Dan Zhang Is Opening Doors for the Next Ge"
+      ]
+    }
+  ]
+}

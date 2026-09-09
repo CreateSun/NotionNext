@@ -1,0 +1,469 @@
+{
+  "generatedAt": "2026-09-09T07:02:51.315Z",
+  "mode": "preflight",
+  "apiCalled": false,
+  "currentRunCostUsd": 0,
+  "plannedProfileReadCostUsd": 0.68,
+  "rawRecordCount": 73,
+  "uniqueAccountCount": 68,
+  "duplicateAccountCount": 5,
+  "accounts": [
+    {
+      "username": "9yearfish",
+      "sourceUsernames": ["9yearfish"],
+      "displayNames": ["关注产品迭代、开源贡献和独立开发经验。9yearfish"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "ai_jasonyu",
+      "sourceUsernames": ["AI_Jasonyu"],
+      "displayNames": ["实操干货，是交叉领域影响力账号。鱼总聊AI"],
+      "categories": ["出海"]
+    },
+    {
+      "username": "astronaut_1216",
+      "sourceUsernames": ["Astronaut_1216"],
+      "displayNames": ["工具变现实战。Astronaut_1216"],
+      "categories": ["副业"]
+    },
+    {
+      "username": "austinit",
+      "sourceUsernames": ["austinit"],
+      "displayNames": [
+        "编程和收入内容。austinit",
+        "偏代码养活自己和个人开发变现路径。austinit"
+      ],
+      "categories": ["独立开发者", "副业"]
+    },
+    {
+      "username": "axtonliu",
+      "sourceUsernames": ["axtonliu"],
+      "displayNames": ["经验较多。Axton"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "benshandebiao",
+      "sourceUsernames": ["benshandebiao"],
+      "displayNames": ["和技术实战笔记。benshandebiao"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "chuhaiqu",
+      "sourceUsernames": ["chuhaiqu"],
+      "displayNames": [
+        "偏出海创业生态、社区活动和项目观察，机构属性较强。出海去孵化器"
+      ],
+      "categories": ["出海"]
+    },
+    {
+      "username": "coderjefflee",
+      "sourceUsernames": ["CoderJeffLee"],
+      "displayNames": ["海外营销、认知升级和案例拆解。子木"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "cydiar404",
+      "sourceUsernames": ["Cydiar404"],
+      "displayNames": ["创业和产品落地，适合看从想法到产品化的过程。Cydiar404"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "daluoseo",
+      "sourceUsernames": ["daluoseo"],
+      "displayNames": ["SEO"],
+      "categories": ["出海"]
+    },
+    {
+      "username": "dev_afei",
+      "sourceUsernames": ["dev_afei"],
+      "displayNames": [
+        "前端工程师出海探索路线，分享英推增长和产品出海。dev_afei"
+      ],
+      "categories": ["出海"]
+    },
+    {
+      "username": "expatlevi",
+      "sourceUsernames": ["expatlevi"],
+      "displayNames": ["地理套利、出海工具和副业工具分享。expatlevi"],
+      "categories": ["副业"]
+    },
+    {
+      "username": "fankaishuoai",
+      "sourceUsernames": ["fankaishuoai"],
+      "displayNames": [
+        "技术创业老兵，常分享创业复盘、技术产品和行业经验。范凯"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "fenng",
+      "sourceUsernames": ["Fenng"],
+      "displayNames": [
+        "互联网老兵型创业观察者，擅长商业评论、创业反思和行业判断。Fenng"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "financeyf5",
+      "sourceUsernames": ["FinanceYF5"],
+      "displayNames": ["Will"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "fkysly",
+      "sourceUsernames": ["fkysly"],
+      "displayNames": ["路线，适合看个人开发者如何持续做产品。马天翼"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "gefei55",
+      "sourceUsernames": ["gefei55"],
+      "displayNames": ["增长方向的高频实战派。哥飞"],
+      "categories": ["出海"]
+    },
+    {
+      "username": "gosailglobal",
+      "sourceUsernames": ["GoSailGlobal"],
+      "displayNames": ["出海独立开发实践者，偏全球化经验。GoSailGlobal"],
+      "categories": ["出海"]
+    },
+    {
+      "username": "guishou_56",
+      "sourceUsernames": ["guishou_56"],
+      "displayNames": ["工具折腾者，常写构建过程和真实故事。guishou_56"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "hongjun60",
+      "sourceUsernames": ["hongjun60"],
+      "displayNames": ["Jane"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "hongyuancao",
+      "sourceUsernames": ["HongyuanCao"],
+      "displayNames": ["实战。HongyuanCao"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "hwwaanng",
+      "sourceUsernames": ["hwwaanng"],
+      "displayNames": ["构建经验。hwwaanng"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "iamtonyzhu",
+      "sourceUsernames": ["iamtonyzhu"],
+      "displayNames": ["创业结合较深，适合关注出海创业实战路径。Tony出海"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "idoubicc",
+      "sourceUsernames": ["idoubicc"],
+      "displayNames": ["产品实践。idoubi"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "indie_maker_fox",
+      "sourceUsernames": ["indie_maker_fox"],
+      "displayNames": [
+        "路线代表账号，分享模板、建站、流量和变现经验。indie_maker_fox"
+      ],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "ityouknows",
+      "sourceUsernames": ["ityouknows"],
+      "displayNames": ["AI、跨境、自媒体和副业变现路径。ityouknows"],
+      "categories": ["副业"]
+    },
+    {
+      "username": "jefferytatsuya",
+      "sourceUsernames": ["JefferyTatsuya"],
+      "displayNames": [
+        "创业者视角，关注产品构建、市场验证和实际增长。JefferyTatsuya"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "jesselaunz",
+      "sourceUsernames": ["jesselaunz"],
+      "displayNames": ["与产品落地。遁一子"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "jinsfavorites",
+      "sourceUsernames": ["JinsFavorites"],
+      "displayNames": ["产品观察，常做产品体验和优化案例整理。JinsFavorites"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "journeymanchina",
+      "sourceUsernames": ["JourneymanChina"],
+      "displayNames": [
+        "出海、被动收入和海外创业路径结合型账号。JourneymanChina",
+        "出海、被动收入和副业实践结合型账号。JourneymanChina"
+      ],
+      "categories": ["出海", "副业"]
+    },
+    {
+      "username": "junyu",
+      "sourceUsernames": ["Junyu"],
+      "displayNames": ["产品思考。王俊煜"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "kasong2048",
+      "sourceUsernames": ["kasong2048"],
+      "displayNames": ["副业、咨询和知识变现路线。kasong2048"],
+      "categories": ["副业"]
+    },
+    {
+      "username": "lewangx",
+      "sourceUsernames": ["lewangx"],
+      "displayNames": ["和硬件、产品思维与新形态产品尝试。王乐"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "lidangzzz",
+      "sourceUsernames": ["lidangzzz"],
+      "displayNames": [
+        "偏创业、投资、学习成长与人生避坑，具有较强个人观点输出。立党"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "liuyi0922",
+      "sourceUsernames": ["liuyi0922"],
+      "displayNames": ["应用作者，偏产品审美和完成度。61"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "livid",
+      "sourceUsernames": ["livid"],
+      "displayNames": ["中文独立开发者和极客社区代表人物之一。Livid"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "luinlee",
+      "sourceUsernames": ["luinlee"],
+      "displayNames": ["Li"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "luobogooooo",
+      "sourceUsernames": ["luobogooooo"],
+      "displayNames": ["工具站构建和出海实战分享为主。luobogooooo"],
+      "categories": ["出海"]
+    },
+    {
+      "username": "luoleiorg",
+      "sourceUsernames": ["luoleiorg"],
+      "displayNames": ["分析。罗磊"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "lxfater",
+      "sourceUsernames": ["lxfater"],
+      "displayNames": [
+        "创业与赚钱实践结合型账号，兼顾产品、流量和实战经验。铁锤人"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "lyc_zh",
+      "sourceUsernames": ["lyc_zh"],
+      "displayNames": ["出海独立开发和产品增长经验分享。lyc_zh"],
+      "categories": ["出海"]
+    },
+    {
+      "username": "nateleex",
+      "sourceUsernames": ["nateleex"],
+      "displayNames": [
+        "连续创业者视角，常分享创业故事、商业认知和实战经历。李自然"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "nextify2024",
+      "sourceUsernames": ["nextify2024"],
+      "displayNames": ["开发工具、模板和产品构建经验。nextify2024"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "nishuang",
+      "sourceUsernames": ["nishuang"],
+      "displayNames": [
+        "设计与品牌创业交叉视角，常写工作室经营和创作型创业经验。倪爽"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "owenyoungzh",
+      "sourceUsernames": ["OwenYoungZh"],
+      "displayNames": [
+        "沉浸式翻译作者，产品与工具出海结合的代表型独立开发者。OwenYoungZh"
+      ],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "plidezus",
+      "sourceUsernames": ["Plidezus"],
+      "displayNames": ["开发者视角，关注移动产品从零到一和上架运营。Plidezus"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "pluvio9yte",
+      "sourceUsernames": ["Pluvio9yte"],
+      "displayNames": ["生态。雪踏乌云"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "randyloop",
+      "sourceUsernames": ["randyloop"],
+      "displayNames": ["活跃开源作者和独立开发者，技术前沿感强。Randy"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "readyfor2025",
+      "sourceUsernames": ["readyfor2025"],
+      "displayNames": ["出海和产品思考。readyfor2025"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "santiagoyoungus",
+      "sourceUsernames": ["santiagoyoungus"],
+      "displayNames": [
+        "海外创业者视角，偏普通人出海创业路径和真实经验。圣总聊出海"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "seclink",
+      "sourceUsernames": ["seclink"],
+      "displayNames": [
+        "趋势、创业视角和产品运营，偏实战型表达。seclink",
+        "工具、冷启动和求职产品化思维结合起来，产品感较强。Y11"
+      ],
+      "categories": ["创业者", "SaaS 和 APP 产品"]
+    },
+    {
+      "username": "servasyy_ai",
+      "sourceUsernames": ["servasyy_ai"],
+      "displayNames": ["产品形态。huangserva"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "shengxj1",
+      "sourceUsernames": ["shengxj1"],
+      "displayNames": ["Web、英语和独立开发。花果山大圣"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "tinyfool",
+      "sourceUsernames": ["tinyfool"],
+      "displayNames": [
+        "资深技术创业者，内容偏创业心态、技术路线和行业选择。Tinyfool"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "tualatrix",
+      "sourceUsernames": ["tualatrix"],
+      "displayNames": [
+        "独立开发者，产品审美和完成度都很强。图拉鼎",
+        "知名独立开发者，常分享开发日常、产品思考和生态观察。图拉鼎"
+      ],
+      "categories": ["SaaS 和 APP 产品", "独立开发者"]
+    },
+    {
+      "username": "turingou",
+      "sourceUsernames": ["turingou"],
+      "displayNames": ["连续创业者视角，常写科技、创业和数字生活方式。郭宇"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "tuturetom",
+      "sourceUsernames": ["tuturetom"],
+      "displayNames": ["Huang"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "valley101_qian",
+      "sourceUsernames": ["Valley101_Qian"],
+      "displayNames": ["Chen"],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "virushuo",
+      "sourceUsernames": ["virushuo"],
+      "displayNames": [
+        "长期关注科技周期和公司战略，对创业和技术趋势有独到看法。霍炬"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "waylybaye",
+      "sourceUsernames": ["waylybaye"],
+      "displayNames": ["独立开发视角，适合看应用打磨和推广经验。Baye"],
+      "categories": ["独立开发者"]
+    },
+    {
+      "username": "weijunext",
+      "sourceUsernames": ["weijunext"],
+      "displayNames": ["出海方向账号，偏开发工具和产品搭建。weijunext"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "xdash",
+      "sourceUsernames": ["XDash"],
+      "displayNames": [
+        "创业洞察、工具推荐和书单类内容较多，兼顾实用和思考。XDash"
+      ],
+      "categories": ["创业者"]
+    },
+    {
+      "username": "xiaohuiai666",
+      "sourceUsernames": ["XiaohuiAI666"],
+      "displayNames": [
+        "AI、内容和副业式产品思维结合，面向普通用户的表达能力强。程序员小灰"
+      ],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "xiongchun007",
+      "sourceUsernames": ["xiongchun007"],
+      "displayNames": ["创业方向，偏产品实践与业务理解。xiongchun007"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "yan5xu",
+      "sourceUsernames": ["yan5xu"],
+      "displayNames": [
+        "应用、商业化和个人经历。yan5xu",
+        "商业化和个人重整经历结合，副业属性明显。yan5xu"
+      ],
+      "categories": ["创业者", "副业"]
+    },
+    {
+      "username": "yihui_indie",
+      "sourceUsernames": ["yihui_indie"],
+      "displayNames": [
+        "独立开发与知识产品变现，内容偏实操和经营思路。yihui_indie"
+      ],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "yupi996",
+      "sourceUsernames": ["yupi996"],
+      "displayNames": ["编程教育、产品化和内容转化结合较好。程序员鱼皮"],
+      "categories": ["SaaS 和 APP 产品"]
+    },
+    {
+      "username": "zhixianio",
+      "sourceUsernames": ["zhixianio"],
+      "displayNames": ["型独立开发账号。知县"],
+      "categories": ["独立开发者"]
+    }
+  ]
+}

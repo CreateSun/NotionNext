@@ -1,0 +1,27 @@
+{
+  "username": "ai_jasonyu",
+  "capturedAt": "2026-09-09T09:00:31.016Z",
+  "pages": [
+    {
+      "requestedUrl": "https://jasonyu.bio/",
+      "finalUrl": "https://jasonyu.bio/",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T09:00:21.008Z",
+      "title": "@jasonyu110 Lnk.Bio · link in bio",
+      "description": "@jasonyu110 Lnk.Bio · link in bio - Profile and social media links for jasonyu110",
+      "headings": [],
+      "pricingSnippets": [
+        "ft Card About us Press Room Sign up Log in Home @jasonyu110 8年产品老兵 | AI内容创作者 20+款出海产品 | 500万+用户 | 单品$200K+营收 分享：AI · SaaS · 独立开发 · 增长 商务合作微信：jasonyu110 微信公众号：鱼总聊AI PaywallPro Ghibl AI Headshot Icon Details Loading... Copy Password-protected Lnk Enter the passwor",
+        "sonalize content and ads. Cookie policy Reject non-necessary Accept all Soluzioni cruciverba Petrol Price Singapore Mediakit Menoo pc calcio 7 trainer"
+      ]
+    },
+    {
+      "requestedUrl": "http://www.paywallpro.app/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:31.016Z",
+      "error": "fetch failed"
+    }
+  ]
+}

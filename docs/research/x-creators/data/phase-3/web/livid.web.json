@@ -1,0 +1,63 @@
+{
+  "username": "livid",
+  "capturedAt": "2026-09-09T09:00:50.581Z",
+  "pages": [
+    {
+      "requestedUrl": "https://github.com/Planetable/Planet",
+      "finalUrl": "https://github.com/Planetable/Planet",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:49.690Z",
+      "title": "GitHub - Planetable/Planet: Build and host decentralized blogs and websites on your Mac · GitHub",
+      "description": "Build and host decentralized blogs and websites on your Mac - Planetable/Planet",
+      "headings": [
+        "Navigation Menu",
+        "Uh oh!",
+        "Uh oh!",
+        "Latest commit",
+        "History",
+        "Folders and files",
+        "Repository files navigation",
+        "Planet",
+        "Features",
+        "Sites Using Planet",
+        "Backup",
+        "Build the macOS App",
+        "Build-Time Feature Flags",
+        "Build Instructions",
+        "Privacy Policy",
+        "License",
+        "About",
+        "Topics",
+        "Resources",
+        "Stars",
+        "Watchers",
+        "Forks",
+        "Releases",
+        "Sponsor this project",
+        "Packages",
+        "Used by",
+        "Contributors",
+        "Languages",
+        "Footer",
+        "Footer navigation"
+      ],
+      "pricingSnippets": [
+        "res Copilot for Business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Pricing Search / Sign in Sign up Appearance settings You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window."
+      ]
+    },
+    {
+      "requestedUrl": "https://www.v2ex.com/solana",
+      "finalUrl": "https://www.v2ex.com/solana",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T09:00:50.578Z",
+      "title": "V2EX › Solana",
+      "description": "",
+      "headings": [
+        "Solana"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

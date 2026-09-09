@@ -1,0 +1,19 @@
+{
+  "username": "xiongchun007",
+  "capturedAt": "2026-09-09T08:59:57.297Z",
+  "pages": [
+    {
+      "requestedUrl": "https://xiongchun.github.io/",
+      "finalUrl": "https://xiongchun.github.io/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:57.297Z",
+      "title": "首页 | 程序员老熊的博客网站®",
+      "description": "盘古开发框架 熊春 盘古通用权限系统 开源中后台业务脚手架 pangu-admin 分布式微服务架构 垂直单体分层架构 普蓝开源社区",
+      "headings": [
+        "Always On the Road."
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

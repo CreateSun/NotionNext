@@ -1,0 +1,54 @@
+{
+  "username": "jesselaunz",
+  "capturedAt": "2026-09-09T09:00:13.339Z",
+  "pages": [
+    {
+      "requestedUrl": "https://jesselau.com/",
+      "finalUrl": "https://jesselau.com/",
+      "status": 200,
+      "contentType": "text/html",
+      "capturedAt": "2026-09-09T09:00:09.197Z",
+      "title": "遁一的博客空間",
+      "description": "Jesse Lau Blog",
+      "headings": [
+        "遁一的博客空間",
+        "歡迎光臨本博"
+      ],
+      "pricingSnippets": [
+        "生认为，比起制作100个平庸的视频，制作一个真正优质的视频更容易获得1000万次播放量。 因为优质视频会成为常青内容，不断被YouTube推荐。 [&hellip;] 野兽先生相信自己最终会达到10亿订阅者。 他没有离开YouTube的计划，并相 &hellip; 阅读更多 美将拯救世界? - Lex Fridman与Jordan Peterson的对话翻译 2024/08/23 乔丹·伯恩特·彼得森（1962年6月12日—），是加拿大多伦多大学的心理学教授，临床心理学家和文化批评家。他的主要研究领域是异常心理、社会心"
+      ]
+    },
+    {
+      "requestedUrl": "https://shorturl.at/97zRI",
+      "finalUrl": "https://shorturl.at/97zRI",
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T09:00:09.991Z",
+      "title": "Just a moment...",
+      "description": "",
+      "headings": [],
+      "pricingSnippets": []
+    },
+    {
+      "requestedUrl": "https://fxdiary.com/",
+      "finalUrl": "https://fxdiary.com/",
+      "status": 200,
+      "contentType": "text/html",
+      "capturedAt": "2026-09-09T09:00:13.329Z",
+      "title": "Live Currency Strength Meter — 28 FX Pairs + Bitcoin | FX Battlefield",
+      "description": "Free live currency strength meter: real-time strength ranking and heat map for 28 FX pairs plus Gold, Silver and Bitcoin. σ-normalized currency strength chart, reversal radar and CFTC COT positioning. No signup.",
+      "headings": [
+        "Live Currency Strength Meter — real-time strength chart & heat map for 8 major fiats + Bitcoin",
+        "⭐ FX Battlefield Pro — Founding Members",
+        "What can this map do for you?",
+        "📚 Fundamentals Station",
+        "—"
+      ],
+      "pricingSnippets": [
+        "e\" exhaustion setups. Market data updates about once per second. Free, no signup. Pro subscription ($9.9/mo): reversal signals on 31 instruments pushed to Telegram in real time (official 1d←4h+1h preset), the 11-nation Hard-Money battlefield with Gold and Silver",
+        "🔍 round-by-round loss review — seeing where you went wrong is what makes training work 🔒 Founding price locked for life — $9.9/mo no matter how prices rise later; cancel in one click Become a founding member · $9.9/mo A monitoring & alerting tool — not investment",
+        "the COT report page . Click a market code ↗ for CME's official daily volume & open-interest page — price up with OI falling = old positions covering, price up with OI rising = fresh money; cross-check it against the weekly COT to track unwind progress. 🔗 Links Ec"
+      ]
+    }
+  ]
+}

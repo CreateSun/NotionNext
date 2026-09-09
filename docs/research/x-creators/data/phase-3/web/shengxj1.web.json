@@ -1,0 +1,43 @@
+{
+  "username": "shengxj1",
+  "capturedAt": "2026-09-09T09:01:10.475Z",
+  "pages": [
+    {
+      "requestedUrl": "https://linktr.ee/shengxj",
+      "finalUrl": "https://linktr.ee/shengxj",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:53.790Z",
+      "title": "shengxj Official: Twitter | Linktree",
+      "description": "Linktree. Make your link do more.",
+      "headings": [
+        "@shengxj",
+        "除了上班，什么都喜欢的程序员",
+        "Explore other Linktrees",
+        "About this account",
+        "More from Linktree"
+      ],
+      "pricingSnippets": [
+        "etize your following Measure your success Templates Marketplace Learn Resources How to use Linktree Pricing Blog Instagram restrict vs block, what&#x27;s the difference (2026) Does Instagram notify when you screenshot a Story? How to share your Facebook page link in"
+      ]
+    },
+    {
+      "requestedUrl": "http://www.youtube.com/@shengxj",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:58.801Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://t.me/shengxj11",
+      "finalUrl": "https://t.me/shengxj11",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:01:10.475Z",
+      "title": "Telegram: View @shengxj11",
+      "description": "@sounv_bot 和 @sounv 索引机器人&& @sounvpaybot - 钱包机器人",
+      "headings": [],
+      "pricingSnippets": []
+    }
+  ]
+}

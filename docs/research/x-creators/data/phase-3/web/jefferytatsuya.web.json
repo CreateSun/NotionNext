@@ -1,0 +1,33 @@
+{
+  "username": "jefferytatsuya",
+  "capturedAt": "2026-09-09T08:59:30.091Z",
+  "pages": [
+    {
+      "requestedUrl": "http://jeff.circleo.me/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:08.477Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://sparticle.com/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:18.485Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "https://felo.ai/",
+      "finalUrl": "https://felo.ai/search",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:30.090Z",
+      "title": "Felo — Free Multilingual AI Search & Creation Platform",
+      "description": "Ask AI anything, search across languages, and create slides, mind maps, docs, images, and webpages with Felo. A free AI platform for research and creation.",
+      "headings": [
+        "Search, understand, and create with AI"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "username": "zhixianio",
+  "capturedAt": "2026-09-09T09:01:00.798Z",
+  "pages": [
+    {
+      "requestedUrl": "http://zhixian.io/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:01:00.798Z",
+      "error": "fetch failed"
+    }
+  ]
+}

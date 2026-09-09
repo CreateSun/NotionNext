@@ -1,0 +1,4075 @@
+{
+  "metadata": {
+    "generatedAt": "2026-09-09T08:42:37.512Z",
+    "source": "X API v2 GET /2/users/by（本地原始响应重建）",
+    "criteria": "url 或 description 中存在非 x.com/twitter.com 的有效 HTTP(S) 外部链接",
+    "originalRecordCount": 73,
+    "uniqueAccountCount": 68,
+    "returnedProfileCount": 66,
+    "selectedCount": 53,
+    "unavailableCount": 2,
+    "profileReadEstimateUsd": 0.68,
+    "profileReadActualUsd": 0.69,
+    "postReadUpperBoundUsd": 1.59,
+    "totalUpperBoundUsd": 2.28
+  },
+  "accounts": [
+    {
+      "username": "lidangzzz",
+      "sourceUsernames": ["lidangzzz"],
+      "displayNames": [
+        "偏创业、投资、学习成长与人生避坑，具有较强个人观点输出。立党"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（私信提问前请务必先到YouTube频道观看各期解答世间万物节目，有问题请到X Space上麦直接询问，未回私信证明你的问题已经在YouTube回答过了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "public_metrics": {
+          "followers_count": 1608923,
+          "following_count": 2742,
+          "like_count": 29030,
+          "listed_count": 3904,
+          "media_count": 10168,
+          "tweet_count": 48936
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/RcYK9nT6WO",
+          "expandedUrl": "https://dinq.me/lidang",
+          "displayUrl": "dinq.me/lidang",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "lxfater",
+      "sourceUsernames": ["lxfater"],
+      "displayNames": [
+        "创业与赚钱实践结合型账号，兼顾产品、流量和实战经验。铁锤人"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2012-01-01T11:26:00.000Z",
+        "description": "我在用 AI 协助我创业， 维护 3w star 项目，写过 1200w 浏览文章，商务联系： 微信：tiechuiren101，邮件：lxfater@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxfater.com",
+                "end": 23,
+                "expanded_url": "https://www.lxfater.com",
+                "start": 0,
+                "url": "https://t.co/lajBhdRd8K"
+              }
+            ]
+          }
+        },
+        "id": "452072245",
+        "name": "铁锤人",
+        "pinned_tweet_id": "2015949596544110974",
+        "public_metrics": {
+          "followers_count": 105728,
+          "following_count": 1376,
+          "like_count": 8282,
+          "listed_count": 1198,
+          "media_count": 1471,
+          "tweet_count": 13818
+        },
+        "url": "https://t.co/lajBhdRd8K",
+        "username": "lxfater",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/lajBhdRd8K",
+          "expandedUrl": "https://www.lxfater.com/",
+          "displayUrl": "lxfater.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "nateleex",
+      "sourceUsernames": ["nateleex"],
+      "displayNames": [
+        "连续创业者视角，常分享创业故事、商业认知和实战经历。李自然"
+      ],
+      "categories": ["创业者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2012-07-08T09:31:51.000Z",
+        "description": "把好奇心当主业\nAI researcher · 退役 CEO · 全球旅居",
+        "id": "630067994",
+        "name": "李自然 Nate Lee",
+        "public_metrics": {
+          "followers_count": 11393,
+          "following_count": 183,
+          "like_count": 75,
+          "listed_count": 127,
+          "media_count": 397,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "nateleex",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "yan5xu",
+      "sourceUsernames": ["yan5xu"],
+      "displayNames": [
+        "应用、商业化和个人经历。yan5xu",
+        "商业化和个人重整经历结合，副业属性明显。yan5xu"
+      ],
+      "categories": ["创业者", "副业"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2010-02-20T10:32:45.000Z",
+        "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "ManusAI_HQ"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "hey_im_monica"
+              }
+            ]
+          }
+        },
+        "id": "115897222",
+        "name": "yan5xu",
+        "pinned_tweet_id": "2038548042304065784",
+        "public_metrics": {
+          "followers_count": 17049,
+          "following_count": 482,
+          "like_count": 2567,
+          "listed_count": 229,
+          "media_count": 230,
+          "tweet_count": 3286
+        },
+        "url": "",
+        "username": "yan5xu",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "santiagoyoungus",
+      "sourceUsernames": ["santiagoyoungus"],
+      "displayNames": [
+        "海外创业者视角，偏普通人出海创业路径和真实经验。圣总聊出海"
+      ],
+      "categories": ["创业者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2023-09-12T23:18:36.000Z",
+        "description": "深圳人在纽约 | 电商创业者",
+        "id": "1701737055712067584",
+        "name": "圣总聊出海",
+        "pinned_tweet_id": "2069811958820274674",
+        "public_metrics": {
+          "followers_count": 13963,
+          "following_count": 77,
+          "like_count": 338,
+          "listed_count": 102,
+          "media_count": 227,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "santiagoyoungus",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "cydiar404",
+      "sourceUsernames": ["Cydiar404"],
+      "displayNames": ["创业和产品落地，适合看从想法到产品化的过程。Cydiar404"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2013-10-29T12:19:55.000Z",
+        "description": "🧑🏻‍🦯带属性浪迹互联网20年 | 202209开始创业 | 产品经理 · 强迫癌 | 设计师 · 像素眼 | 超级奶爸 · 修炼中 | 5分钟脱口秀选手 | 绝不给SB老板打工 | 长期主义 | 利他主义 | 哆啦C梦 |  ENFJ | Cydiar.eth | CelHive | Lucy2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cydiar.com",
+                "end": 23,
+                "expanded_url": "http://www.cydiar.com",
+                "start": 0,
+                "url": "https://t.co/jmd7HhtB4n"
+              }
+            ]
+          }
+        },
+        "id": "2162747077",
+        "name": "𝗖𝘆𝗱𝗶𝗮𝗿",
+        "pinned_tweet_id": "2069586715719962973",
+        "public_metrics": {
+          "followers_count": 62211,
+          "following_count": 852,
+          "like_count": 15807,
+          "listed_count": 644,
+          "media_count": 2223,
+          "tweet_count": 16040
+        },
+        "url": "https://t.co/jmd7HhtB4n",
+        "username": "Cydiar404",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/jmd7HhtB4n",
+          "expandedUrl": "http://www.cydiar.com/",
+          "displayUrl": "cydiar.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "jefferytatsuya",
+      "sourceUsernames": ["JefferyTatsuya"],
+      "displayNames": [
+        "创业者视角，关注产品构建、市场验证和实际增长。JefferyTatsuya"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-05-06T12:34:18.000Z",
+        "description": "https://t.co/XMkEfLzyoK\n\n- https://t.co/TAbYHGeBnW (AI搜索引擎）\n- https://t.co/OZfPxx93LH （企业知识引擎）\n\n- https://t.co/eRORaOHar0 Felo字幕会议纪要",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Sparticle.com",
+                "end": 23,
+                "expanded_url": "http://Sparticle.com",
+                "start": 0,
+                "url": "https://t.co/XMkEfLzyoK"
+              },
+              {
+                "display_url": "Felo.ai",
+                "end": 50,
+                "expanded_url": "https://Felo.ai",
+                "start": 27,
+                "url": "https://t.co/TAbYHGeBnW"
+              },
+              {
+                "display_url": "GBase.ai",
+                "end": 85,
+                "expanded_url": "https://GBase.ai",
+                "start": 62,
+                "url": "https://t.co/OZfPxx93LH"
+              },
+              {
+                "display_url": "subtitles.felo.me",
+                "end": 121,
+                "expanded_url": "https://subtitles.felo.me",
+                "start": 98,
+                "url": "https://t.co/eRORaOHar0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jeff.circleo.me",
+                "end": 23,
+                "expanded_url": "http://jeff.circleo.me",
+                "start": 0,
+                "url": "https://t.co/JwGdZKc1gJ"
+              }
+            ]
+          }
+        },
+        "id": "38167656",
+        "name": "Jeffery Kaneda　金田達也",
+        "pinned_tweet_id": "1972090820024324257",
+        "public_metrics": {
+          "followers_count": 22724,
+          "following_count": 1448,
+          "like_count": 2945,
+          "listed_count": 426,
+          "media_count": 584,
+          "tweet_count": 3538
+        },
+        "url": "https://t.co/JwGdZKc1gJ",
+        "username": "JefferyTatsuya",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/JwGdZKc1gJ",
+          "expandedUrl": "http://jeff.circleo.me/",
+          "displayUrl": "jeff.circleo.me",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/XMkEfLzyoK",
+          "expandedUrl": "http://sparticle.com/",
+          "displayUrl": "Sparticle.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/TAbYHGeBnW",
+          "expandedUrl": "https://felo.ai/",
+          "displayUrl": "Felo.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/OZfPxx93LH",
+          "expandedUrl": "https://gbase.ai/",
+          "displayUrl": "GBase.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/eRORaOHar0",
+          "expandedUrl": "https://subtitles.felo.me/",
+          "displayUrl": "subtitles.felo.me",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "seclink",
+      "sourceUsernames": ["seclink"],
+      "displayNames": [
+        "趋势、创业视角和产品运营，偏实战型表达。seclink",
+        "工具、冷启动和求职产品化思维结合起来，产品感较强。Y11"
+      ],
+      "categories": ["创业者", "SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2011-01-12T12:04:13.000Z",
+        "description": "找工作、找面试题、改简历、模拟面试。关注：\n创业（冷启动） ｜ 认知心理学｜智能体 ｜ 强化学习 ｜ AWS RoboMaker、ROS、Gazebo ｜ 具身智能 ｜ 大模型后训练 （数据标注 ｜ 数据采集 ） ｜ 大模型专家评测\nbuilding：https://t.co/A4YmEz9yqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jobleap.cn",
+                "end": 149,
+                "expanded_url": "https://jobleap.cn",
+                "start": 126,
+                "url": "https://t.co/A4YmEz9yqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jobleap.cn",
+                "end": 23,
+                "expanded_url": "https://www.jobleap.cn/",
+                "start": 0,
+                "url": "https://t.co/2H0pxR7lxa"
+              }
+            ]
+          }
+        },
+        "id": "237243234",
+        "name": "Y11",
+        "public_metrics": {
+          "followers_count": 32008,
+          "following_count": 748,
+          "like_count": 21241,
+          "listed_count": 331,
+          "media_count": 1784,
+          "tweet_count": 13572
+        },
+        "url": "https://t.co/2H0pxR7lxa",
+        "username": "seclink",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/2H0pxR7lxa",
+          "expandedUrl": "https://www.jobleap.cn/",
+          "displayUrl": "jobleap.cn",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/A4YmEz9yqG",
+          "expandedUrl": "https://jobleap.cn/",
+          "displayUrl": "jobleap.cn",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "fenng",
+      "sourceUsernames": ["Fenng"],
+      "displayNames": [
+        "互联网老兵型创业观察者，擅长商业评论、创业反思和行业判断。Fenng"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2007-03-19T11:04:33.000Z",
+        "description": "你所看到的都不是真实的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nocode.com",
+                "end": 23,
+                "expanded_url": "https://nocode.com",
+                "start": 0,
+                "url": "https://t.co/2Htk7UbDPJ"
+              }
+            ]
+          }
+        },
+        "id": "1490631",
+        "name": "Fenng",
+        "pinned_tweet_id": "1972994361572069518",
+        "public_metrics": {
+          "followers_count": 217819,
+          "following_count": 5853,
+          "like_count": 53622,
+          "listed_count": 1996,
+          "media_count": 2225,
+          "tweet_count": 49141
+        },
+        "url": "https://t.co/2Htk7UbDPJ",
+        "username": "Fenng",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/2Htk7UbDPJ",
+          "expandedUrl": "https://nocode.com/",
+          "displayUrl": "nocode.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "turingou",
+      "sourceUsernames": ["turingou"],
+      "displayNames": ["连续创业者视角，常写科技、创业和数字生活方式。郭宇"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-05-25T04:50:07.000Z",
+        "description": "Retired. 只活一次等于没活。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/guo-yu",
+                "end": 23,
+                "expanded_url": "https://github.com/guo-yu",
+                "start": 0,
+                "url": "https://t.co/9AjwM56cw4"
+              }
+            ]
+          }
+        },
+        "id": "42352056",
+        "name": "郭宇 guoyu.eth",
+        "pinned_tweet_id": "1969813348872335431",
+        "public_metrics": {
+          "followers_count": 185509,
+          "following_count": 565,
+          "like_count": 7071,
+          "listed_count": 1624,
+          "media_count": 3043,
+          "tweet_count": 10487
+        },
+        "url": "https://t.co/9AjwM56cw4",
+        "username": "turingou",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/9AjwM56cw4",
+          "expandedUrl": "https://github.com/guo-yu",
+          "displayUrl": "github.com/guo-yu",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "tinyfool",
+      "sourceUsernames": ["tinyfool"],
+      "displayNames": [
+        "资深技术创业者，内容偏创业心态、技术路线和行业选择。Tinyfool"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2007-05-11T17:10:33.000Z",
+        "description": "Youtuber\n20年老程序员，业已退休，不以写代码为主业。\n不是英语老师，但开发了\"英语轻松读\"，做了广受好评的学习英语的视频。\n心在日本，人目前在天津\nYoutube：\n英语学习之路 https://t.co/fY05anVN8r\n胡说八道 https://t.co/FQLaNWFD5j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/tinyfoolgmail",
+                "end": 118,
+                "expanded_url": "http://youtube.com/c/tinyfoolgmail",
+                "start": 95,
+                "url": "https://t.co/fY05anVN8r"
+              },
+              {
+                "display_url": "tinyurl.com/2j928ecm",
+                "end": 147,
+                "expanded_url": "http://tinyurl.com/2j928ecm",
+                "start": 124,
+                "url": "https://t.co/FQLaNWFD5j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "codechina.org",
+                "end": 23,
+                "expanded_url": "https://codechina.org/",
+                "start": 0,
+                "url": "https://t.co/h65nactS6S"
+              }
+            ]
+          }
+        },
+        "id": "5967912",
+        "name": "Tinyfool",
+        "pinned_tweet_id": "1529730373789179909",
+        "public_metrics": {
+          "followers_count": 195308,
+          "following_count": 1024,
+          "like_count": 8728,
+          "listed_count": 1491,
+          "media_count": 5250,
+          "tweet_count": 111921
+        },
+        "url": "https://t.co/h65nactS6S",
+        "username": "tinyfool",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/h65nactS6S",
+          "expandedUrl": "https://codechina.org/",
+          "displayUrl": "codechina.org",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/fY05anVN8r",
+          "expandedUrl": "http://youtube.com/c/tinyfoolgmail",
+          "displayUrl": "youtube.com/c/tinyfoolgmail",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/FQLaNWFD5j",
+          "expandedUrl": "http://tinyurl.com/2j928ecm",
+          "displayUrl": "tinyurl.com/2j928ecm",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "virushuo",
+      "sourceUsernames": ["virushuo"],
+      "displayNames": [
+        "长期关注科技周期和公司战略，对创业和技术趋势有独到看法。霍炬"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2006-12-08T07:14:11.000Z",
+        "description": "Back to the 2006.  Screeching voices of the minority.\n\nAuthor «Illustrated History of Programming»",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jhuo.ca",
+                "end": 23,
+                "expanded_url": "https://jhuo.ca",
+                "start": 0,
+                "url": "https://t.co/Vh0huPUIwe"
+              }
+            ]
+          }
+        },
+        "id": "49913",
+        "name": "virushuo",
+        "public_metrics": {
+          "followers_count": 63290,
+          "following_count": 2748,
+          "like_count": 2122,
+          "listed_count": 1017,
+          "media_count": 339,
+          "tweet_count": 9237
+        },
+        "url": "https://t.co/Vh0huPUIwe",
+        "username": "virushuo",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/Vh0huPUIwe",
+          "expandedUrl": "https://jhuo.ca/",
+          "displayUrl": "jhuo.ca",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "fankaishuoai",
+      "sourceUsernames": ["fankaishuoai"],
+      "displayNames": [
+        "技术创业老兵，常分享创业复盘、技术产品和行业经验。范凯"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2007-06-28T04:13:08.000Z",
+        "description": "🧠 个人AI实战｜工具实测、模型选择、工作流\n不追热点清单，只分享亲自用过的判断与方法\n🌐 https://t.co/GmU3zpHBB6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fankaishuo.ai",
+                "end": 69,
+                "expanded_url": "http://fankaishuo.ai",
+                "start": 46,
+                "url": "https://t.co/GmU3zpHBB6"
+              }
+            ]
+          }
+        },
+        "id": "7124672",
+        "name": "范凯说 AI | Kai on AI",
+        "public_metrics": {
+          "followers_count": 39924,
+          "following_count": 283,
+          "like_count": 64,
+          "listed_count": 635,
+          "media_count": 307,
+          "tweet_count": 3641
+        },
+        "url": "",
+        "username": "fankaishuoai",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/GmU3zpHBB6",
+          "expandedUrl": "http://fankaishuo.ai/",
+          "displayUrl": "fankaishuo.ai",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "xdash",
+      "sourceUsernames": ["XDash"],
+      "displayNames": [
+        "创业洞察、工具推荐和书单类内容较多，兼顾实用和思考。XDash"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2008-02-21T03:48:11.000Z",
+        "description": "《增长黑客》作者，创业者，投资者，宅男奶爸。\n\n- Newsletter: https://t.co/MH4384VAN0\n- Blog: https://t.co/jmc7BALKYi\n- YouTube: https://t.co/nOKTkKOGJQ\n- Podcast《冰镇电波》",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zengzhang.ai",
+                "end": 61,
+                "expanded_url": "http://zengzhang.ai",
+                "start": 38,
+                "url": "https://t.co/MH4384VAN0"
+              },
+              {
+                "display_url": "xdash.me",
+                "end": 93,
+                "expanded_url": "https://xdash.me",
+                "start": 70,
+                "url": "https://t.co/jmc7BALKYi"
+              },
+              {
+                "display_url": "youtube.com/@fanbing",
+                "end": 128,
+                "expanded_url": "https://www.youtube.com/@fanbing",
+                "start": 105,
+                "url": "https://t.co/nOKTkKOGJQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zengzhang.ai",
+                "end": 23,
+                "expanded_url": "https://zengzhang.ai",
+                "start": 0,
+                "url": "https://t.co/hwY7j5gxoZ"
+              }
+            ]
+          }
+        },
+        "id": "13754782",
+        "name": "XDash",
+        "public_metrics": {
+          "followers_count": 29712,
+          "following_count": 159,
+          "like_count": 4718,
+          "listed_count": 476,
+          "media_count": 230,
+          "tweet_count": 9125
+        },
+        "url": "https://t.co/hwY7j5gxoZ",
+        "username": "XDash",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/hwY7j5gxoZ",
+          "expandedUrl": "https://zengzhang.ai/",
+          "displayUrl": "zengzhang.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/MH4384VAN0",
+          "expandedUrl": "http://zengzhang.ai/",
+          "displayUrl": "zengzhang.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/jmc7BALKYi",
+          "expandedUrl": "https://xdash.me/",
+          "displayUrl": "xdash.me",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/nOKTkKOGJQ",
+          "expandedUrl": "https://www.youtube.com/@fanbing",
+          "displayUrl": "youtube.com/@fanbing",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "idoubicc",
+      "sourceUsernames": ["idoubicc"],
+      "displayNames": ["产品实践。idoubi"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2018-01-08T20:14:10.000Z",
+        "description": "Founder of https://t.co/Ommsg8hqJU and https://t.co/vK21lE7HkK.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shipany.ai",
+                "end": 34,
+                "expanded_url": "http://shipany.ai",
+                "start": 11,
+                "url": "https://t.co/Ommsg8hqJU"
+              },
+              {
+                "display_url": "MCP.so",
+                "end": 62,
+                "expanded_url": "http://MCP.so",
+                "start": 39,
+                "url": "https://t.co/vK21lE7HkK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "idoubi.ai",
+                "end": 23,
+                "expanded_url": "https://idoubi.ai",
+                "start": 0,
+                "url": "https://t.co/K2j8pWVYxc"
+              }
+            ]
+          }
+        },
+        "id": "950460643173216256",
+        "name": "idoubi",
+        "public_metrics": {
+          "followers_count": 28229,
+          "following_count": 406,
+          "like_count": 486,
+          "listed_count": 423,
+          "media_count": 368,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/K2j8pWVYxc",
+        "username": "idoubicc",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/K2j8pWVYxc",
+          "expandedUrl": "https://idoubi.ai/",
+          "displayUrl": "idoubi.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/Ommsg8hqJU",
+          "expandedUrl": "http://shipany.ai/",
+          "displayUrl": "shipany.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/vK21lE7HkK",
+          "expandedUrl": "http://mcp.so/",
+          "displayUrl": "MCP.so",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "nishuang",
+      "sourceUsernames": ["nishuang"],
+      "displayNames": [
+        "设计与品牌创业交叉视角，常写工作室经营和创作型创业经验。倪爽"
+      ],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-02-11T13:17:01.000Z",
+        "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nishuang.net",
+                "end": 23,
+                "expanded_url": "https://nishuang.net/",
+                "start": 0,
+                "url": "https://t.co/kn7zsOTWuW"
+              }
+            ]
+          }
+        },
+        "id": "20588970",
+        "name": "倪爽",
+        "pinned_tweet_id": "1902092248306643441",
+        "public_metrics": {
+          "followers_count": 103205,
+          "following_count": 795,
+          "like_count": 21823,
+          "listed_count": 1118,
+          "media_count": 15506,
+          "tweet_count": 42098
+        },
+        "url": "https://t.co/kn7zsOTWuW",
+        "username": "nishuang",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/kn7zsOTWuW",
+          "expandedUrl": "https://nishuang.net/",
+          "displayUrl": "nishuang.net",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "coderjefflee",
+      "sourceUsernames": ["CoderJeffLee"],
+      "displayNames": ["海外营销、认知升级和案例拆解。子木"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2023-01-13T15:29:17.000Z",
+        "description": "增长黑客，全干码农｜AI 软件行业\n万千世界，飘过的我是竹叶般... 偶尔聊出海 SEO GEO 等增长\n\n平生之好，扒拉内容，扒拉代码，顺便扒拉灵魂\n恰好你喜欢，谢谢 ～\n\n 有缘微信见：oqqsmile",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bysocket.com",
+                "end": 23,
+                "expanded_url": "https://bysocket.com/",
+                "start": 0,
+                "url": "https://t.co/0Ci1c1Mfkn"
+              }
+            ]
+          }
+        },
+        "id": "1613921100731387906",
+        "name": "写增长的子木",
+        "pinned_tweet_id": "1983933314282221780",
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 871,
+          "like_count": 1644,
+          "listed_count": 112,
+          "media_count": 557,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/0Ci1c1Mfkn",
+        "username": "CoderJeffLee",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/0Ci1c1Mfkn",
+          "expandedUrl": "https://bysocket.com/",
+          "displayUrl": "bysocket.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "tuturetom",
+      "sourceUsernames": ["tuturetom"],
+      "displayNames": ["Huang"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2016-12-07T11:45:38.000Z",
+        "description": "Co-founder & CEO @OpenDesignHQ — building Open Design, the open-source Claude Design alternative.  → https://t.co/J2erf2l0vF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "OpenDesignHQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/nexu-io/open-d…",
+                "end": 124,
+                "expanded_url": "http://github.com/nexu-io/open-design",
+                "start": 101,
+                "url": "https://t.co/J2erf2l0vF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/nexu-io/nexu",
+                "end": 23,
+                "expanded_url": "https://github.com/nexu-io/nexu",
+                "start": 0,
+                "url": "https://t.co/eJf6I0QF7K"
+              }
+            ]
+          }
+        },
+        "id": "806464682823282688",
+        "name": "Tom Huang",
+        "pinned_tweet_id": "2092807560982069415",
+        "public_metrics": {
+          "followers_count": 39383,
+          "following_count": 6718,
+          "like_count": 10113,
+          "listed_count": 554,
+          "media_count": 2776,
+          "tweet_count": 10668
+        },
+        "url": "https://t.co/eJf6I0QF7K",
+        "username": "tuturetom",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/eJf6I0QF7K",
+          "expandedUrl": "https://github.com/nexu-io/nexu",
+          "displayUrl": "github.com/nexu-io/nexu",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/J2erf2l0vF",
+          "expandedUrl": "http://github.com/nexu-io/open-design",
+          "displayUrl": "github.com/nexu-io/open-d…",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "iamtonyzhu",
+      "sourceUsernames": ["iamtonyzhu"],
+      "displayNames": ["创业结合较深，适合关注出海创业实战路径。Tony出海"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-05-01T14:23:58.000Z",
+        "description": "Tony出海 | AI创业者 & 2015 年从国内产品转跨境出海，SEO+社媒做到高转化。Ship AI startups，分享最新AI动态\n\nhttps://t.co/ujAyRZmAhW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "createv.ai",
+                "end": 96,
+                "expanded_url": "http://createv.ai",
+                "start": 73,
+                "url": "https://t.co/ujAyRZmAhW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuhaihao.com",
+                "end": 23,
+                "expanded_url": "https://chuhaihao.com",
+                "start": 0,
+                "url": "https://t.co/z4bStGJOWO"
+              }
+            ]
+          }
+        },
+        "id": "36952268",
+        "name": "Tony出海",
+        "pinned_tweet_id": "2096422266087379018",
+        "public_metrics": {
+          "followers_count": 26064,
+          "following_count": 2196,
+          "like_count": 9061,
+          "listed_count": 305,
+          "media_count": 1491,
+          "tweet_count": 7860
+        },
+        "url": "https://t.co/z4bStGJOWO",
+        "username": "iamtonyzhu",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/z4bStGJOWO",
+          "expandedUrl": "https://chuhaihao.com/",
+          "displayUrl": "chuhaihao.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/ujAyRZmAhW",
+          "expandedUrl": "http://createv.ai/",
+          "displayUrl": "createv.ai",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "hongjun60",
+      "sourceUsernames": ["hongjun60"],
+      "displayNames": ["Jane"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2013-02-11T06:30:24.000Z",
+        "description": "Founder of Valley 101（硅谷101）｜Podcaster @thevalley101 @web3_101 https://t.co/dBbudITzrA https://t.co/RgIxFn11wx https://t.co/QQ49UEhkSp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "thevalley101"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "web3_101"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sv101.fireside.fm",
+                "end": 86,
+                "expanded_url": "http://sv101.fireside.fm",
+                "start": 63,
+                "url": "https://t.co/dBbudITzrA"
+              },
+              {
+                "display_url": "web3101.fireside.fm",
+                "end": 110,
+                "expanded_url": "https://web3101.fireside.fm",
+                "start": 87,
+                "url": "https://t.co/RgIxFn11wx"
+              },
+              {
+                "display_url": "youtube.com/@TheValley101",
+                "end": 134,
+                "expanded_url": "https://www.youtube.com/@TheValley101",
+                "start": 111,
+                "url": "https://t.co/QQ49UEhkSp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sv101.fireside.fm",
+                "end": 23,
+                "expanded_url": "https://sv101.fireside.fm/",
+                "start": 0,
+                "url": "https://t.co/nxXQgncM7F"
+              }
+            ]
+          }
+        },
+        "id": "1168028658",
+        "name": "硅谷101泓君Jane",
+        "pinned_tweet_id": "2018961694161297896",
+        "public_metrics": {
+          "followers_count": 9475,
+          "following_count": 502,
+          "like_count": 163,
+          "listed_count": 111,
+          "media_count": 44,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/nxXQgncM7F",
+        "username": "hongjun60",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/nxXQgncM7F",
+          "expandedUrl": "https://sv101.fireside.fm/",
+          "displayUrl": "sv101.fireside.fm",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/dBbudITzrA",
+          "expandedUrl": "http://sv101.fireside.fm/",
+          "displayUrl": "sv101.fireside.fm",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/RgIxFn11wx",
+          "expandedUrl": "https://web3101.fireside.fm/",
+          "displayUrl": "web3101.fireside.fm",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/QQ49UEhkSp",
+          "expandedUrl": "https://www.youtube.com/@TheValley101",
+          "displayUrl": "youtube.com/@TheValley101",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "valley101_qian",
+      "sourceUsernames": ["Valley101_Qian"],
+      "displayNames": ["Chen"],
+      "categories": ["创业者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-09-19T01:41:47.000Z",
+        "description": "Co-founder of Valley101 Inc（硅谷101）\nFormer CNBC reporter\nLinkedIn: https://t.co/FHzeduS2pZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/qianchen",
+                "end": 89,
+                "expanded_url": "http://linkedin.com/in/qianchen",
+                "start": 66,
+                "url": "https://t.co/FHzeduS2pZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheValley101",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@TheValley101",
+                "start": 0,
+                "url": "https://t.co/35aaRKqPA7"
+              }
+            ]
+          }
+        },
+        "id": "75441743",
+        "name": "硅谷101陈茜（Qian Chen ）",
+        "public_metrics": {
+          "followers_count": 19349,
+          "following_count": 242,
+          "like_count": 192,
+          "listed_count": 122,
+          "media_count": 48,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/35aaRKqPA7",
+        "username": "Valley101_Qian",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/35aaRKqPA7",
+          "expandedUrl": "https://www.youtube.com/@TheValley101",
+          "displayUrl": "youtube.com/@TheValley101",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/FHzeduS2pZ",
+          "expandedUrl": "http://linkedin.com/in/qianchen",
+          "displayUrl": "linkedin.com/in/qianchen",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "indie_maker_fox",
+      "sourceUsernames": ["indie_maker_fox"],
+      "displayNames": [
+        "路线代表账号，分享模板、建站、流量和变现经验。indie_maker_fox"
+      ],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2024-12-07T07:35:39.000Z",
+        "description": "🔥 TanStack 模板：https://t.co/EOxhRbrenE\n🚀 Nextjs 模板：https://t.co/VyNtTs0jSX\n🎉 AI 生图 模板：https://t.co/bJaO3RX3xe\n👨‍💻 主业大厂高工，副业独立开发\n📚 公开构建，专注 AI 相关技术分享\n🤑 产品出海，2 年收入破 10 万美刀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "TanStarter.dev",
+                "end": 37,
+                "expanded_url": "http://TanStarter.dev",
+                "start": 14,
+                "url": "https://t.co/EOxhRbrenE"
+              },
+              {
+                "display_url": "MkSaaS.com",
+                "end": 73,
+                "expanded_url": "http://MkSaaS.com",
+                "start": 50,
+                "url": "https://t.co/VyNtTs0jSX"
+              },
+              {
+                "display_url": "MkImage.ai",
+                "end": 108,
+                "expanded_url": "http://MkImage.ai",
+                "start": 85,
+                "url": "https://t.co/bJaO3RX3xe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mksaas.link/discord",
+                "end": 23,
+                "expanded_url": "https://mksaas.link/discord",
+                "start": 0,
+                "url": "https://t.co/0oU8J6WeYz"
+              }
+            ]
+          }
+        },
+        "id": "1865299069092139008",
+        "name": "Fox",
+        "pinned_tweet_id": "2090952120275181949",
+        "public_metrics": {
+          "followers_count": 15672,
+          "following_count": 1184,
+          "like_count": 10981,
+          "listed_count": 210,
+          "media_count": 1543,
+          "tweet_count": 8557
+        },
+        "url": "https://t.co/0oU8J6WeYz",
+        "username": "indie_maker_fox",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/0oU8J6WeYz",
+          "expandedUrl": "https://mksaas.link/discord",
+          "displayUrl": "mksaas.link/discord",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/EOxhRbrenE",
+          "expandedUrl": "http://tanstarter.dev/",
+          "displayUrl": "TanStarter.dev",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/VyNtTs0jSX",
+          "expandedUrl": "http://mksaas.com/",
+          "displayUrl": "MkSaaS.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/bJaO3RX3xe",
+          "expandedUrl": "http://mkimage.ai/",
+          "displayUrl": "MkImage.ai",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "hongyuancao",
+      "sourceUsernames": ["HongyuanCao"],
+      "displayNames": ["实战。HongyuanCao"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2019-08-09T03:51:36.000Z",
+        "description": "创业者，出海SaaS+AI产品，SEO见习师，会分享个人经验和工具，请多多关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notegpt.io",
+                "end": 23,
+                "expanded_url": "https://notegpt.io/",
+                "start": 0,
+                "url": "https://t.co/izYN6Kipm2"
+              }
+            ]
+          }
+        },
+        "id": "1159673555828690945",
+        "name": "HongyuanCao",
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 697,
+          "like_count": 1380,
+          "listed_count": 70,
+          "media_count": 760,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/izYN6Kipm2",
+        "username": "HongyuanCao",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/izYN6Kipm2",
+          "expandedUrl": "https://notegpt.io/",
+          "displayUrl": "notegpt.io",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "nextify2024",
+      "sourceUsernames": ["nextify2024"],
+      "displayNames": ["开发工具、模板和产品构建经验。nextify2024"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2024-03-09T02:01:41.000Z",
+        "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn\n别用 V0 了， 试试https://t.co/pxNLlDO5pI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oneclick.sh",
+                "end": 38,
+                "expanded_url": "https://oneclick.sh",
+                "start": 15,
+                "url": "https://t.co/XBKDw9XNKn"
+              },
+              {
+                "display_url": "libra.dev",
+                "end": 73,
+                "expanded_url": "https://libra.dev",
+                "start": 50,
+                "url": "https://t.co/pxNLlDO5pI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nextify.ltd",
+                "end": 23,
+                "expanded_url": "https://nextify.ltd",
+                "start": 0,
+                "url": "https://t.co/GWxaX5WBoc"
+              }
+            ]
+          }
+        },
+        "id": "1766283136592429056",
+        "name": "Nextify",
+        "pinned_tweet_id": "1952247983724257608",
+        "public_metrics": {
+          "followers_count": 21679,
+          "following_count": 332,
+          "like_count": 32118,
+          "listed_count": 158,
+          "media_count": 710,
+          "tweet_count": 13441
+        },
+        "url": "https://t.co/GWxaX5WBoc",
+        "username": "nextify2024",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/GWxaX5WBoc",
+          "expandedUrl": "https://nextify.ltd/",
+          "displayUrl": "nextify.ltd",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/XBKDw9XNKn",
+          "expandedUrl": "https://oneclick.sh/",
+          "displayUrl": "oneclick.sh",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/pxNLlDO5pI",
+          "expandedUrl": "https://libra.dev/",
+          "displayUrl": "libra.dev",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "readyfor2025",
+      "sourceUsernames": ["readyfor2025"],
+      "displayNames": ["出海和产品思考。readyfor2025"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2017-01-28T04:41:58.000Z",
+        "description": "连续创业者&产品经理。早年腾讯&360 PM。创业：①PC 2C工具产品②社交APP ③社交APP外包 ④垂类2B SAAS ⑤2G智慧城市 。间歇性抑郁，从创造中寻找多巴胺。",
+        "id": "825202230458347520",
+        "name": "Moby",
+        "pinned_tweet_id": "1959289627904540870",
+        "public_metrics": {
+          "followers_count": 4125,
+          "following_count": 491,
+          "like_count": 623,
+          "listed_count": 57,
+          "media_count": 36,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "readyfor2025",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "weijunext",
+      "sourceUsernames": ["weijunext"],
+      "displayNames": ["出海方向账号，偏开发工具和产品搭建。weijunext"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2023-04-12T04:39:37.000Z",
+        "description": "⛵️出海软件开发｜英国远程工作｜\nNext.js SaaS 模板：https://t.co/YzCDmGttme ｜\nNextjs 中文文档：https://t.co/Ek37EFh3tI ｜\n开源：https://t.co/vMeadXy9OD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nexty.dev",
+                "end": 56,
+                "expanded_url": "https://nexty.dev",
+                "start": 33,
+                "url": "https://t.co/YzCDmGttme"
+              },
+              {
+                "display_url": "nextjscn.org",
+                "end": 94,
+                "expanded_url": "https://nextjscn.org",
+                "start": 71,
+                "url": "https://t.co/Ek37EFh3tI"
+              },
+              {
+                "display_url": "github.com/weijunext",
+                "end": 123,
+                "expanded_url": "https://github.com/weijunext",
+                "start": 100,
+                "url": "https://t.co/vMeadXy9OD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weijunext.com",
+                "end": 23,
+                "expanded_url": "https://weijunext.com",
+                "start": 0,
+                "url": "https://t.co/3awwVCq6B0"
+              }
+            ]
+          }
+        },
+        "id": "1646010116624334848",
+        "name": "weijunext",
+        "pinned_tweet_id": "2026506960837943387",
+        "public_metrics": {
+          "followers_count": 14316,
+          "following_count": 1356,
+          "like_count": 1371,
+          "listed_count": 210,
+          "media_count": 424,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/3awwVCq6B0",
+        "username": "weijunext",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/3awwVCq6B0",
+          "expandedUrl": "https://weijunext.com/",
+          "displayUrl": "weijunext.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/YzCDmGttme",
+          "expandedUrl": "https://nexty.dev/",
+          "displayUrl": "nexty.dev",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/Ek37EFh3tI",
+          "expandedUrl": "https://nextjscn.org/",
+          "displayUrl": "nextjscn.org",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/vMeadXy9OD",
+          "expandedUrl": "https://github.com/weijunext",
+          "displayUrl": "github.com/weijunext",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "yihui_indie",
+      "sourceUsernames": ["yihui_indie"],
+      "displayNames": [
+        "独立开发与知识产品变现，内容偏实操和经营思路。yihui_indie"
+      ],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2023-10-30T07:45:42.000Z",
+        "description": "AI Skills: https://t.co/lK73wJ0WFG\nAI Anime：https://t.co/v3w7gLApFk  \niOS App：https://t.co/6QTbV3Uemm\n独立开发者 & Up主：做更酷的事，体验更多的世界",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skillry.dev",
+                "end": 34,
+                "expanded_url": "https://skillry.dev",
+                "start": 11,
+                "url": "https://t.co/lK73wJ0WFG"
+              },
+              {
+                "display_url": "mkanime.ai",
+                "end": 67,
+                "expanded_url": "http://mkanime.ai",
+                "start": 44,
+                "url": "https://t.co/v3w7gLApFk"
+              },
+              {
+                "display_url": "aiteleprompterapp.com",
+                "end": 101,
+                "expanded_url": "https://aiteleprompterapp.com",
+                "start": 78,
+                "url": "https://t.co/6QTbV3Uemm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "happyaicoding.com",
+                "end": 23,
+                "expanded_url": "https://happyaicoding.com",
+                "start": 0,
+                "url": "https://t.co/9ftg2pTRTj"
+              }
+            ]
+          }
+        },
+        "id": "1718896922277314560",
+        "name": "Yihui",
+        "pinned_tweet_id": "2094347997912215588",
+        "public_metrics": {
+          "followers_count": 55790,
+          "following_count": 1023,
+          "like_count": 4509,
+          "listed_count": 537,
+          "media_count": 1569,
+          "tweet_count": 6449
+        },
+        "url": "https://t.co/9ftg2pTRTj",
+        "username": "yihui_indie",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/9ftg2pTRTj",
+          "expandedUrl": "https://happyaicoding.com/",
+          "displayUrl": "happyaicoding.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/lK73wJ0WFG",
+          "expandedUrl": "https://skillry.dev/",
+          "displayUrl": "skillry.dev",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/v3w7gLApFk",
+          "expandedUrl": "http://mkanime.ai/",
+          "displayUrl": "mkanime.ai",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/6QTbV3Uemm",
+          "expandedUrl": "https://aiteleprompterapp.com/",
+          "displayUrl": "aiteleprompterapp.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "jinsfavorites",
+      "sourceUsernames": ["JinsFavorites"],
+      "displayNames": ["产品观察，常做产品体验和优化案例整理。JinsFavorites"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2024-04-24T15:41:29.000Z",
+        "description": "🧠  AI Explorer &Product : Focus on Agents and AI Tools.",
+        "id": "1783159280843284482",
+        "name": "dangjin",
+        "public_metrics": {
+          "followers_count": 13376,
+          "following_count": 264,
+          "like_count": 1730,
+          "listed_count": 161,
+          "media_count": 559,
+          "tweet_count": 1617
+        },
+        "url": "",
+        "username": "JinsFavorites",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "xiongchun007",
+      "sourceUsernames": ["xiongchun007"],
+      "displayNames": ["创业方向，偏产品实践与业务理解。xiongchun007"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2023-12-07T16:08:59.000Z",
+        "description": "👨‍💻 驻山程序员, 分享 AI 产品构建 • 开源测评 • Vibe Coding 实战\n\n🛠️ Building a data workbench @DataCollie in public",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "DataCollie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiongchun.github.io",
+                "end": 23,
+                "expanded_url": "https://xiongchun.github.io",
+                "start": 0,
+                "url": "https://t.co/dnBAFuKZy1"
+              }
+            ]
+          }
+        },
+        "id": "1732794145398484992",
+        "name": "山中大熊",
+        "pinned_tweet_id": "2097272541719261348",
+        "public_metrics": {
+          "followers_count": 13692,
+          "following_count": 3355,
+          "like_count": 17014,
+          "listed_count": 93,
+          "media_count": 1193,
+          "tweet_count": 6675
+        },
+        "url": "https://t.co/dnBAFuKZy1",
+        "username": "xiongchun007",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/dnBAFuKZy1",
+          "expandedUrl": "https://xiongchun.github.io/",
+          "displayUrl": "xiongchun.github.io",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "junyu",
+      "sourceUsernames": ["Junyu"],
+      "displayNames": ["产品思考。王俊煜"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2007-03-25T07:39:20.000Z",
+        "description": "Co-founder, Wandou Labs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.wangjunyu.net",
+                "end": 23,
+                "expanded_url": "http://blog.wangjunyu.net",
+                "start": 0,
+                "url": "https://t.co/JWQIjB2mhx"
+              }
+            ]
+          }
+        },
+        "id": "2162571",
+        "name": "Junyu Wang",
+        "public_metrics": {
+          "followers_count": 29823,
+          "following_count": 757,
+          "like_count": 517,
+          "listed_count": 380,
+          "media_count": 1864,
+          "tweet_count": 20718
+        },
+        "url": "https://t.co/JWQIjB2mhx",
+        "username": "junyu",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/JWQIjB2mhx",
+          "expandedUrl": "http://blog.wangjunyu.net/",
+          "displayUrl": "blog.wangjunyu.net",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "luoleiorg",
+      "sourceUsernames": ["luoleiorg"],
+      "displayNames": ["分析。罗磊"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-06-30T18:05:29.000Z",
+        "description": "💻 Full-Stack Developer / 📖 Lifetime Learner / 🚧 Building & Sharing / 🎬 YouTuber https://t.co/7g47VdNMnN / 📝 https://t.co/6ucNiJ2gyg / 👨‍🚀 More https://t.co/smbFyIb6Hc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zuoluo.tv/yt",
+                "end": 103,
+                "expanded_url": "http://zuoluo.tv/yt",
+                "start": 80,
+                "url": "https://t.co/7g47VdNMnN"
+              },
+              {
+                "display_url": "luolei.org",
+                "end": 131,
+                "expanded_url": "http://luolei.org",
+                "start": 108,
+                "url": "https://t.co/6ucNiJ2gyg"
+              },
+              {
+                "display_url": "github.com/foru17",
+                "end": 166,
+                "expanded_url": "http://github.com/foru17",
+                "start": 143,
+                "url": "https://t.co/smbFyIb6Hc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luolei.org",
+                "end": 23,
+                "expanded_url": "https://luolei.org",
+                "start": 0,
+                "url": "https://t.co/Dy6rJ2dYKv"
+              }
+            ]
+          }
+        },
+        "id": "52468378",
+        "name": "luolei",
+        "pinned_tweet_id": "2096902560896741727",
+        "public_metrics": {
+          "followers_count": 64019,
+          "following_count": 1667,
+          "like_count": 1400,
+          "listed_count": 565,
+          "media_count": 5182,
+          "tweet_count": 10678
+        },
+        "url": "https://t.co/Dy6rJ2dYKv",
+        "username": "luoleiorg",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/Dy6rJ2dYKv",
+          "expandedUrl": "https://luolei.org/",
+          "displayUrl": "luolei.org",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/7g47VdNMnN",
+          "expandedUrl": "http://zuoluo.tv/yt",
+          "displayUrl": "zuoluo.tv/yt",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/6ucNiJ2gyg",
+          "expandedUrl": "http://luolei.org/",
+          "displayUrl": "luolei.org",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/smbFyIb6Hc",
+          "expandedUrl": "http://github.com/foru17",
+          "displayUrl": "github.com/foru17",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "plidezus",
+      "sourceUsernames": ["Plidezus"],
+      "displayNames": ["开发者视角，关注移动产品从零到一和上架运营。Plidezus"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2008-11-25T05:02:47.000Z",
+        "description": "Cofounder @ flomo/xiaobot/mubu\n读：https://t.co/Uxc54AHU1I\n写：https://t.co/Ey3HHPAzx4\n做：https://t.co/uCA9ZUWcaB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "read.pmthinking.com",
+                "end": 56,
+                "expanded_url": "https://read.pmthinking.com/",
+                "start": 33,
+                "url": "https://t.co/Uxc54AHU1I"
+              },
+              {
+                "display_url": "shaonan.blog",
+                "end": 82,
+                "expanded_url": "http://shaonan.blog",
+                "start": 59,
+                "url": "https://t.co/Ey3HHPAzx4"
+              },
+              {
+                "display_url": "flomoapp.com",
+                "end": 108,
+                "expanded_url": "https://flomoapp.com",
+                "start": 85,
+                "url": "https://t.co/uCA9ZUWcaB"
+              }
+            ]
+          }
+        },
+        "id": "17612854",
+        "name": "少楠Plidezus",
+        "public_metrics": {
+          "followers_count": 11626,
+          "following_count": 232,
+          "like_count": 843,
+          "listed_count": 195,
+          "media_count": 220,
+          "tweet_count": 3679
+        },
+        "url": "",
+        "username": "plidezus",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/Uxc54AHU1I",
+          "expandedUrl": "https://read.pmthinking.com/",
+          "displayUrl": "read.pmthinking.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/Ey3HHPAzx4",
+          "expandedUrl": "http://shaonan.blog/",
+          "displayUrl": "shaonan.blog",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/uCA9ZUWcaB",
+          "expandedUrl": "https://flomoapp.com/",
+          "displayUrl": "flomoapp.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "jesselaunz",
+      "sourceUsernames": ["jesselaunz"],
+      "displayNames": ["与产品落地。遁一子"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-02-11T04:38:48.000Z",
+        "description": "AI 修道 外汇交易 曾获Dukascopy油管解说https://t.co/T0S9q923JC 程式交易比赛2届月度冠军\n交易idea到EA @tradingwithea\n外汇战场地图 反转雷达 https://t.co/dCpSc4IsSm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "tradingwithea"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shorturl.at/97zRI",
+                "end": 49,
+                "expanded_url": "https://shorturl.at/97zRI",
+                "start": 26,
+                "url": "https://t.co/T0S9q923JC"
+              },
+              {
+                "display_url": "fxdiary.com",
+                "end": 123,
+                "expanded_url": "https://fxdiary.com",
+                "start": 100,
+                "url": "https://t.co/dCpSc4IsSm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesselau.com",
+                "end": 23,
+                "expanded_url": "https://jesselau.com/",
+                "start": 0,
+                "url": "https://t.co/1ybg1K9i6w"
+              }
+            ]
+          }
+        },
+        "id": "20571502",
+        "name": "Jesse Lau 遁一子",
+        "pinned_tweet_id": "1689811434564448256",
+        "public_metrics": {
+          "followers_count": 30287,
+          "following_count": 2191,
+          "like_count": 16366,
+          "listed_count": 535,
+          "media_count": 10515,
+          "tweet_count": 31325
+        },
+        "url": "https://t.co/1ybg1K9i6w",
+        "username": "jesselaunz",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/1ybg1K9i6w",
+          "expandedUrl": "https://jesselau.com/",
+          "displayUrl": "jesselau.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/T0S9q923JC",
+          "expandedUrl": "https://shorturl.at/97zRI",
+          "displayUrl": "shorturl.at/97zRI",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/dCpSc4IsSm",
+          "expandedUrl": "https://fxdiary.com/",
+          "displayUrl": "fxdiary.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "lewangx",
+      "sourceUsernames": ["lewangx"],
+      "displayNames": ["和硬件、产品思维与新形态产品尝试。王乐"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2012-04-02T12:51:52.000Z",
+        "description": "Creating smart toys powered by AI 👉 @FoloToy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "FoloToy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lewang.dev",
+                "end": 23,
+                "expanded_url": "https://lewang.dev",
+                "start": 0,
+                "url": "https://t.co/4Rc9PovNiz"
+              }
+            ]
+          }
+        },
+        "id": "543386522",
+        "name": "LE",
+        "pinned_tweet_id": "1990959031192858750",
+        "public_metrics": {
+          "followers_count": 38857,
+          "following_count": 479,
+          "like_count": 2753,
+          "listed_count": 471,
+          "media_count": 1127,
+          "tweet_count": 4572
+        },
+        "url": "https://t.co/4Rc9PovNiz",
+        "username": "lewangx",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/4Rc9PovNiz",
+          "expandedUrl": "https://lewang.dev/",
+          "displayUrl": "lewang.dev",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "axtonliu",
+      "sourceUsernames": ["axtonliu"],
+      "displayNames": ["经验较多。Axton"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2015-01-25T04:55:28.000Z",
+        "description": "《重构个体》作者 · AI 自动化架构师 · MAPS™ 框架创建者\nAI 竞争力 = 人机协作深度 × 系统设计能力\nAuthor of \"Rebuilding the Individual\" · AI Automation Architect",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "axtonliu.ai/book",
+                "end": 23,
+                "expanded_url": "https://axtonliu.ai/book",
+                "start": 0,
+                "url": "https://t.co/eR5hiHWehN"
+              }
+            ]
+          }
+        },
+        "id": "2997268024",
+        "name": "Axton",
+        "pinned_tweet_id": "2037138223361909084",
+        "public_metrics": {
+          "followers_count": 19263,
+          "following_count": 278,
+          "like_count": 1926,
+          "listed_count": 367,
+          "media_count": 582,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/eR5hiHWehN",
+        "username": "AxtonLiu",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/eR5hiHWehN",
+          "expandedUrl": "https://axtonliu.ai/book",
+          "displayUrl": "axtonliu.ai/book",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "tualatrix",
+      "sourceUsernames": ["tualatrix"],
+      "displayNames": [
+        "独立开发者，产品审美和完成度都很强。图拉鼎",
+        "知名独立开发者，常分享开发日常、产品思考和生态观察。图拉鼎"
+      ],
+      "categories": ["SaaS 和 APP 产品", "独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2010-03-11T00:35:59.000Z",
+        "description": "新晋奶爸，生活在杭州良渚的开发者。最近在打造 Tutu Studio https://t.co/x8O3ICFulp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tutu.studio",
+                "end": 58,
+                "expanded_url": "https://tutu.studio",
+                "start": 35,
+                "url": "https://t.co/x8O3ICFulp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imtx.me",
+                "end": 23,
+                "expanded_url": "https://imtx.me",
+                "start": 0,
+                "url": "https://t.co/NP9nPh438N"
+              }
+            ]
+          }
+        },
+        "id": "121908437",
+        "name": "图拉鼎",
+        "pinned_tweet_id": "2066427184764653639",
+        "public_metrics": {
+          "followers_count": 111653,
+          "following_count": 1403,
+          "like_count": 25453,
+          "listed_count": 1149,
+          "media_count": 20792,
+          "tweet_count": 110940
+        },
+        "url": "https://t.co/NP9nPh438N",
+        "username": "tualatrix",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/NP9nPh438N",
+          "expandedUrl": "https://imtx.me/",
+          "displayUrl": "imtx.me",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/x8O3ICFulp",
+          "expandedUrl": "https://tutu.studio/",
+          "displayUrl": "tutu.studio",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "luinlee",
+      "sourceUsernames": ["luinlee"],
+      "displayNames": ["Li"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2009-08-28T03:26:53.000Z",
+        "description": "Building @Playyy_ai · Ex-Engineering Lead @Slab · Ex-CTO @ShimoDocs · Built ioredis (acq.) & @medisclient · Contributor to @quilljs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Playyy_ai"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "username": "Slab"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "ShimoDocs"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "medisclient"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "quilljs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zihua.li",
+                "end": 23,
+                "expanded_url": "https://zihua.li",
+                "start": 0,
+                "url": "https://t.co/kWXogPIAjf"
+              }
+            ]
+          }
+        },
+        "id": "69492059",
+        "name": "子骅 Zihua Li",
+        "pinned_tweet_id": "1430435574041616386",
+        "public_metrics": {
+          "followers_count": 13256,
+          "following_count": 769,
+          "like_count": 1473,
+          "listed_count": 144,
+          "media_count": 286,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/kWXogPIAjf",
+        "username": "luinlee",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/kWXogPIAjf",
+          "expandedUrl": "https://zihua.li/",
+          "displayUrl": "zihua.li",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "yupi996",
+      "sourceUsernames": ["yupi996"],
+      "displayNames": ["编程教育、产品化和内容转化结合较好。程序员鱼皮"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2025-12-15T17:22:30.000Z",
+        "description": "专注 AI + 编程教育 | 编程导航站长 https://t.co/89dNxo4a3J\n⭐️ 全网 200w 关注，独立开发→腾讯全栈→创业中\n😈 项目狂魔，10+上线产品，GitHub 20k+ followers\n❤️ 感谢关注，AI 资源获取 https://t.co/016as14C0T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "codefather.cn",
+                "end": 45,
+                "expanded_url": "http://codefather.cn",
+                "start": 22,
+                "url": "https://t.co/89dNxo4a3J"
+              },
+              {
+                "display_url": "ai.codefather.cn",
+                "end": 150,
+                "expanded_url": "http://ai.codefather.cn",
+                "start": 127,
+                "url": "https://t.co/016as14C0T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liyupi",
+                "end": 23,
+                "expanded_url": "https://github.com/liyupi",
+                "start": 0,
+                "url": "https://t.co/zfKcqO4pft"
+              }
+            ]
+          }
+        },
+        "id": "2000617411247251456",
+        "name": "程序员鱼皮",
+        "pinned_tweet_id": "2000880272112542163",
+        "public_metrics": {
+          "followers_count": 28404,
+          "following_count": 239,
+          "like_count": 334,
+          "listed_count": 174,
+          "media_count": 241,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/zfKcqO4pft",
+        "username": "yupi996",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/zfKcqO4pft",
+          "expandedUrl": "https://github.com/liyupi",
+          "displayUrl": "github.com/liyupi",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/89dNxo4a3J",
+          "expandedUrl": "http://codefather.cn/",
+          "displayUrl": "codefather.cn",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/016as14C0T",
+          "expandedUrl": "http://ai.codefather.cn/",
+          "displayUrl": "ai.codefather.cn",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "servasyy_ai",
+      "sourceUsernames": ["servasyy_ai"],
+      "displayNames": ["产品形态。huangserva"],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2025-12-11T04:11:24.000Z",
+        "description": "古早程序员 | AI出海 | 自由职业\n机车游侠&机速购&骑享租创始人\n15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中\n分享创业，AI，读书，生活，健身\nOfficial X channel of SERVASYY LLC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "servasyy.com",
+                "end": 23,
+                "expanded_url": "https://servasyy.com",
+                "start": 0,
+                "url": "https://t.co/pfeXMtOl0E"
+              }
+            ]
+          }
+        },
+        "id": "1998968758422179840",
+        "name": "huangserva",
+        "pinned_tweet_id": "2097488445686026641",
+        "public_metrics": {
+          "followers_count": 38585,
+          "following_count": 749,
+          "like_count": 11378,
+          "listed_count": 497,
+          "media_count": 674,
+          "tweet_count": 6161
+        },
+        "url": "https://t.co/pfeXMtOl0E",
+        "username": "servasyy_ai",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/pfeXMtOl0E",
+          "expandedUrl": "https://servasyy.com/",
+          "displayUrl": "servasyy.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "xiaohuiai666",
+      "sourceUsernames": ["XiaohuiAI666"],
+      "displayNames": [
+        "AI、内容和副业式产品思维结合，面向普通用户的表达能力强。程序员小灰"
+      ],
+      "categories": ["SaaS 和 APP 产品"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2025-11-29T02:28:13.000Z",
+        "description": "公众号/知乎【程序员小灰】作者，畅销书《漫画算法》作者\n前京东程序员，10年自媒体创业经历，全网70W垂直粉丝，专业指导AIGC和副业变现\n欢迎链接V：bjxiaoxiaohui",
+        "id": "1994594111131979780",
+        "name": "程序员小灰",
+        "pinned_tweet_id": "2000231669111119920",
+        "public_metrics": {
+          "followers_count": 19061,
+          "following_count": 298,
+          "like_count": 3825,
+          "listed_count": 160,
+          "media_count": 431,
+          "tweet_count": 2180
+        },
+        "url": "",
+        "username": "XiaohuiAI666",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "gefei55",
+      "sourceUsernames": ["gefei55"],
+      "displayNames": ["增长方向的高频实战派。哥飞"],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2011-08-26T02:49:30.000Z",
+        "description": "哥飞，出海鼓励师，SEO爱好者，Adsense玩家，出海AI工具方向创业者。\n同名公众号写了五百多篇出海搞流量免费教程文章。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.web.cafe",
+                "end": 23,
+                "expanded_url": "https://new.web.cafe/",
+                "start": 0,
+                "url": "https://t.co/rp2u5TdrXH"
+              }
+            ]
+          }
+        },
+        "id": "362252075",
+        "name": "哥飞",
+        "pinned_tweet_id": "1760839985715204230",
+        "public_metrics": {
+          "followers_count": 59124,
+          "following_count": 1293,
+          "like_count": 960,
+          "listed_count": 640,
+          "media_count": 793,
+          "tweet_count": 3263
+        },
+        "url": "https://t.co/rp2u5TdrXH",
+        "username": "gefei55",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/rp2u5TdrXH",
+          "expandedUrl": "https://new.web.cafe/",
+          "displayUrl": "new.web.cafe",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "lyc_zh",
+      "sourceUsernames": ["lyc_zh"],
+      "displayNames": ["出海独立开发和产品增长经验分享。lyc_zh"],
+      "categories": ["出海"],
+      "status": "账号不可用",
+      "error": {
+        "detail": "Could not find user with usernames: [lyc_zh].",
+        "parameter": "usernames",
+        "resource_id": "lyc_zh",
+        "resource_type": "user",
+        "title": "Not Found Error",
+        "type": "https://api.x.com/2/problems/resource-not-found",
+        "value": "lyc_zh"
+      },
+      "profile": null,
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "ai_jasonyu",
+      "sourceUsernames": ["AI_Jasonyu"],
+      "displayNames": ["实操干货，是交叉领域影响力账号。鱼总聊AI"],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2016-07-22T02:47:23.000Z",
+        "description": "👋 AI & 出海& Saas & APP & 海外手机卡eSIM实操干货分享 📈 8年产品经验 | 单款产品营收 $200k+ （全自然流量 ）💻 代表作：@PaywallPro1 付费墙Agent：https://t.co/YJBXCadlR1 🍼 2胎爸爸 | 私信聊合作/咨询：jasonyu110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "PaywallPro1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "paywallpro.app",
+                "end": 124,
+                "expanded_url": "http://www.paywallpro.app",
+                "start": 101,
+                "url": "https://t.co/YJBXCadlR1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonyu.bio",
+                "end": 23,
+                "expanded_url": "https://jasonyu.bio",
+                "start": 0,
+                "url": "https://t.co/ac7PCFnFTO"
+              }
+            ]
+          }
+        },
+        "id": "756319701861601281",
+        "name": "鱼总聊AI",
+        "pinned_tweet_id": "2072277885168033834",
+        "public_metrics": {
+          "followers_count": 63038,
+          "following_count": 1594,
+          "like_count": 12327,
+          "listed_count": 551,
+          "media_count": 1103,
+          "tweet_count": 9289
+        },
+        "url": "https://t.co/ac7PCFnFTO",
+        "username": "AI_Jasonyu",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/ac7PCFnFTO",
+          "expandedUrl": "https://jasonyu.bio/",
+          "displayUrl": "jasonyu.bio",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/YJBXCadlR1",
+          "expandedUrl": "http://www.paywallpro.app/",
+          "displayUrl": "paywallpro.app",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "journeymanchina",
+      "sourceUsernames": ["JourneymanChina"],
+      "displayNames": [
+        "出海、被动收入和海外创业路径结合型账号。JourneymanChina",
+        "出海、被动收入和副业实践结合型账号。JourneymanChina"
+      ],
+      "categories": ["出海", "副业"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2017-10-17T04:14:52.000Z",
+        "description": "🛠  Noteey创始人 https://t.co/8W09BmupVP 正在打造最好的视觉笔记软件\n💰  前Videoshow联合创始人  https://t.co/W9oZurRLgw\n🤓  All In 出海  | 斜杠中年 | 分享被动收入经验",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noteey.com",
+                "end": 36,
+                "expanded_url": "http://noteey.com",
+                "start": 13,
+                "url": "https://t.co/8W09BmupVP"
+              },
+              {
+                "display_url": "videoshowapp.com",
+                "end": 94,
+                "expanded_url": "http://videoshowapp.com",
+                "start": 71,
+                "url": "https://t.co/W9oZurRLgw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noteey.com",
+                "end": 23,
+                "expanded_url": "http://noteey.com/",
+                "start": 0,
+                "url": "https://t.co/0NELT4IAjt"
+              }
+            ]
+          }
+        },
+        "id": "920141035212124161",
+        "name": "Journeyman",
+        "public_metrics": {
+          "followers_count": 42511,
+          "following_count": 465,
+          "like_count": 1097,
+          "listed_count": 392,
+          "media_count": 4010,
+          "tweet_count": 12416
+        },
+        "url": "https://t.co/0NELT4IAjt",
+        "username": "JourneymanChina",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/0NELT4IAjt",
+          "expandedUrl": "http://noteey.com/",
+          "displayUrl": "noteey.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/8W09BmupVP",
+          "expandedUrl": "http://noteey.com/",
+          "displayUrl": "noteey.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/W9oZurRLgw",
+          "expandedUrl": "http://videoshowapp.com/",
+          "displayUrl": "videoshowapp.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "dev_afei",
+      "sourceUsernames": ["dev_afei"],
+      "displayNames": [
+        "前端工程师出海探索路线，分享英推增长和产品出海。dev_afei"
+      ],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2022-08-25T03:00:34.000Z",
+        "description": "👨‍💻 前端工程师 & 出海探索者\n\n🚀 英推增长 (DM 领 7 折券) - https://t.co/2LyZXXb5H2\n\n📢 分享我的 SaaS 产品出海之旅  |  英文推: @devinzhang_me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "devinzhang_me"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Tweeteasy.io",
+                "end": 63,
+                "expanded_url": "https://Tweeteasy.io",
+                "start": 40,
+                "url": "https://t.co/2LyZXXb5H2"
+              }
+            ]
+          }
+        },
+        "id": "1562635991499673600",
+        "name": "阿飞",
+        "pinned_tweet_id": "1789141093180674470",
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 601,
+          "like_count": 3175,
+          "listed_count": 40,
+          "media_count": 109,
+          "tweet_count": 1499
+        },
+        "url": "",
+        "username": "dev_afei",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/2LyZXXb5H2",
+          "expandedUrl": "https://tweeteasy.io/",
+          "displayUrl": "Tweeteasy.io",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "luobogooooo",
+      "sourceUsernames": ["luobogooooo"],
+      "displayNames": ["工具站构建和出海实战分享为主。luobogooooo"],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2021-12-19T06:17:54.000Z",
+        "description": "颜狗、前端切图大师、伪独立开发者。\n🎹 键盘冒烟构建 MVPAI https://t.co/fYhCSWdvik\n🧳 独立开发者出海工具箱 https://t.co/5bJT5uN2Tx\n🎨 UI库导航站 https://t.co/Qu9dFY5irt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mvpai.dev",
+                "end": 56,
+                "expanded_url": "https://mvpai.dev",
+                "start": 33,
+                "url": "https://t.co/fYhCSWdvik"
+              },
+              {
+                "display_url": "indiehackertools.net",
+                "end": 93,
+                "expanded_url": "https://indiehackertools.net/",
+                "start": 70,
+                "url": "https://t.co/5bJT5uN2Tx"
+              },
+              {
+                "display_url": "uilibhub.com",
+                "end": 126,
+                "expanded_url": "https://uilibhub.com/",
+                "start": 103,
+                "url": "https://t.co/Qu9dFY5irt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/luobogor",
+                "end": 23,
+                "expanded_url": "https://bento.me/luobogor",
+                "start": 0,
+                "url": "https://t.co/9zujk5moMk"
+              }
+            ]
+          }
+        },
+        "id": "1472450899817598976",
+        "name": "luobogor",
+        "pinned_tweet_id": "1863612117674586602",
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 564,
+          "like_count": 1050,
+          "listed_count": 50,
+          "media_count": 137,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/9zujk5moMk",
+        "username": "luobogooooo",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/9zujk5moMk",
+          "expandedUrl": "https://bento.me/luobogor",
+          "displayUrl": "bento.me/luobogor",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/fYhCSWdvik",
+          "expandedUrl": "https://mvpai.dev/",
+          "displayUrl": "mvpai.dev",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/5bJT5uN2Tx",
+          "expandedUrl": "https://indiehackertools.net/",
+          "displayUrl": "indiehackertools.net",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/Qu9dFY5irt",
+          "expandedUrl": "https://uilibhub.com/",
+          "displayUrl": "uilibhub.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "gosailglobal",
+      "sourceUsernames": ["GoSailGlobal"],
+      "displayNames": ["出海独立开发实践者，偏全球化经验。GoSailGlobal"],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2025-05-31T07:13:12.000Z",
+        "description": "Show In Public ｜ SaaS 出海 ｜ 克尔凯郭尔种草🌿\n\nSkills hub：https://t.co/x1VU8wWNj1\n博客：https://t.co/ajYYIXGqFg\n\n🤝 合作DM：GoSail_AI\n📮：m17551076169@gmail.com\n\nMCN：collab@gosaillab.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "agentskillshub.top",
+                "end": 71,
+                "expanded_url": "http://agentskillshub.top",
+                "start": 48,
+                "url": "https://t.co/x1VU8wWNj1"
+              },
+              {
+                "display_url": "jasonzhu.ai",
+                "end": 98,
+                "expanded_url": "http://jasonzhu.ai",
+                "start": 75,
+                "url": "https://t.co/ajYYIXGqFg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gosaillab.com",
+                "end": 23,
+                "expanded_url": "http://gosaillab.com",
+                "start": 0,
+                "url": "https://t.co/ItUkeZClvV"
+              }
+            ]
+          }
+        },
+        "id": "1928711169419956224",
+        "name": "Jason Zhu",
+        "pinned_tweet_id": "2097576265108889686",
+        "public_metrics": {
+          "followers_count": 35472,
+          "following_count": 2362,
+          "like_count": 14246,
+          "listed_count": 390,
+          "media_count": 2114,
+          "tweet_count": 11974
+        },
+        "url": "https://t.co/ItUkeZClvV",
+        "username": "GoSailGlobal",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/ItUkeZClvV",
+          "expandedUrl": "http://gosaillab.com/",
+          "displayUrl": "gosaillab.com",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/x1VU8wWNj1",
+          "expandedUrl": "http://agentskillshub.top/",
+          "displayUrl": "agentskillshub.top",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/ajYYIXGqFg",
+          "expandedUrl": "http://jasonzhu.ai/",
+          "displayUrl": "jasonzhu.ai",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "chuhaiqu",
+      "sourceUsernames": ["chuhaiqu"],
+      "displayNames": [
+        "偏出海创业生态、社区活动和项目观察，机构属性较强。出海去孵化器"
+      ],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2024-01-11T19:31:25.000Z",
+        "description": "我们是一个赋能独立创客、一人公司和小微团队的新型社区孵化器，帮独立创客打造全球化一人公司。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuhaiqu.club",
+                "end": 23,
+                "expanded_url": "https://chuhaiqu.club",
+                "start": 0,
+                "url": "https://t.co/yamhVTl5ex"
+              }
+            ]
+          }
+        },
+        "id": "1745528837088161792",
+        "name": "出海去孵化器",
+        "public_metrics": {
+          "followers_count": 18619,
+          "following_count": 423,
+          "like_count": 2303,
+          "listed_count": 187,
+          "media_count": 1240,
+          "tweet_count": 4234
+        },
+        "url": "https://t.co/yamhVTl5ex",
+        "username": "chuhaiqu",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/yamhVTl5ex",
+          "expandedUrl": "https://chuhaiqu.club/",
+          "displayUrl": "chuhaiqu.club",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "daluoseo",
+      "sourceUsernames": ["daluoseo"],
+      "displayNames": ["SEO"],
+      "categories": ["出海"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2021-11-27T16:26:42.000Z",
+        "description": "出海 Growth Marketing / SEO专家 | 提供SEO咨询，优化服务以及高权重外链 |  油管: 大罗SEO\nPartner @ HashMatrix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "daluoseo.com",
+                "end": 23,
+                "expanded_url": "http://daluoseo.com",
+                "start": 0,
+                "url": "https://t.co/XFbuWg867j"
+              }
+            ]
+          }
+        },
+        "id": "1464631743831547911",
+        "name": "大罗SEO",
+        "public_metrics": {
+          "followers_count": 11225,
+          "following_count": 1354,
+          "like_count": 623,
+          "listed_count": 165,
+          "media_count": 783,
+          "tweet_count": 4127
+        },
+        "url": "https://t.co/XFbuWg867j",
+        "username": "daluoseo",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/XFbuWg867j",
+          "expandedUrl": "http://daluoseo.com/",
+          "displayUrl": "daluoseo.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "austinit",
+      "sourceUsernames": ["austinit"],
+      "displayNames": [
+        "编程和收入内容。austinit",
+        "偏代码养活自己和个人开发变现路径。austinit"
+      ],
+      "categories": ["独立开发者", "副业"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2016-08-19T07:00:45.000Z",
+        "description": "个人 × AI 智能体 × 工具链 = 超级个体\n用产品和投资赚点小钱。\n分享独立开发、增长技巧，以及 AI 实战经验与教程。",
+        "id": "766530325652484097",
+        "name": "超级个体 Austin",
+        "pinned_tweet_id": "2080515738243309614",
+        "public_metrics": {
+          "followers_count": 41039,
+          "following_count": 406,
+          "like_count": 3130,
+          "listed_count": 346,
+          "media_count": 472,
+          "tweet_count": 2405
+        },
+        "url": "",
+        "username": "austinit",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "guishou_56",
+      "sourceUsernames": ["guishou_56"],
+      "displayNames": ["工具折腾者，常写构建过程和真实故事。guishou_56"],
+      "categories": ["独立开发者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2025-01-01T13:07:08.000Z",
+        "description": "前360安全开发工程师｜现独立开发者\n从0到1打造AI SaaS产品 🚀\n分享$0 → $10000/月的产品出海之路\n商务合作&付费咨询：niko87321",
+        "id": "1874442058653646848",
+        "name": "Niko",
+        "pinned_tweet_id": "2038886363177898095",
+        "public_metrics": {
+          "followers_count": 10493,
+          "following_count": 197,
+          "like_count": 137,
+          "listed_count": 123,
+          "media_count": 300,
+          "tweet_count": 2327
+        },
+        "url": "",
+        "username": "guishou_56",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "9yearfish",
+      "sourceUsernames": ["9yearfish"],
+      "displayNames": ["关注产品迭代、开源贡献和独立开发经验。9yearfish"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2016-02-09T07:47:37.000Z",
+        "description": "👨‍💻10 年程序员独立开发了一个小众行业的 ERP，服务国内头部商家。 \n\n💡今年目标 2B 业务的新产品出海必须盈利（说了两年了，逃~）\n\n🎈主要是个家庭煮夫的日常推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoxiang.me",
+                "end": 23,
+                "expanded_url": "http://aoxiang.me",
+                "start": 0,
+                "url": "https://t.co/3pbIrbJL5B"
+              }
+            ]
+          }
+        },
+        "id": "4881840612",
+        "name": "9YearFish",
+        "pinned_tweet_id": "1741129453009596436",
+        "public_metrics": {
+          "followers_count": 14128,
+          "following_count": 956,
+          "like_count": 3858,
+          "listed_count": 166,
+          "media_count": 293,
+          "tweet_count": 3812
+        },
+        "url": "https://t.co/3pbIrbJL5B",
+        "username": "9yearfish",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/3pbIrbJL5B",
+          "expandedUrl": "http://aoxiang.me/",
+          "displayUrl": "aoxiang.me",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "benshandebiao",
+      "sourceUsernames": ["benshandebiao"],
+      "displayNames": ["和技术实战笔记。benshandebiao"],
+      "categories": ["独立开发者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2022-05-19T16:28:53.000Z",
+        "description": "Independent builder.",
+        "id": "1527325223305224194",
+        "name": "本山德彪",
+        "pinned_tweet_id": "2084197040452780483",
+        "public_metrics": {
+          "followers_count": 6764,
+          "following_count": 1252,
+          "like_count": 10034,
+          "listed_count": 73,
+          "media_count": 685,
+          "tweet_count": 4508
+        },
+        "url": "",
+        "username": "benshandebiao",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "hwwaanng",
+      "sourceUsernames": ["hwwaanng"],
+      "displayNames": ["构建经验。hwwaanng"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2013-07-13T12:35:29.000Z",
+        "description": "Design/Vibe/Shape  \nBuilding ► @airbuild_hq\nHere to be human, not just a promo machine.\n\nearly @bridge_surf @AFFiNEOfficial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "airbuild_hq"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "bridge_surf"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "AFFiNEOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hwang.fun/projects",
+                "end": 23,
+                "expanded_url": "http://hwang.fun/projects",
+                "start": 0,
+                "url": "https://t.co/WwcWnttIUk"
+              }
+            ]
+          }
+        },
+        "id": "1590927428",
+        "name": "Hwang",
+        "pinned_tweet_id": "2082677755364454845",
+        "public_metrics": {
+          "followers_count": 22501,
+          "following_count": 4120,
+          "like_count": 26057,
+          "listed_count": 253,
+          "media_count": 2502,
+          "tweet_count": 10329
+        },
+        "url": "https://t.co/WwcWnttIUk",
+        "username": "hwwaanng",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/WwcWnttIUk",
+          "expandedUrl": "http://hwang.fun/projects",
+          "displayUrl": "hwang.fun/projects",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "owenyoungzh",
+      "sourceUsernames": ["OwenYoungZh"],
+      "displayNames": [
+        "沉浸式翻译作者，产品与工具出海结合的代表型独立开发者。OwenYoungZh"
+      ],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2020-10-12T10:39:22.000Z",
+        "description": "不愿意污染推特时间轴的短想法：https://t.co/4d4SOAqXzp\n\n博客： https://t.co/3R7OXjor1J\n\nEN: @TheOwenYoung",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "TheOwenYoung"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "owenyoung.com/thoughts/",
+                "end": 38,
+                "expanded_url": "http://owenyoung.com/thoughts/",
+                "start": 15,
+                "url": "https://t.co/4d4SOAqXzp"
+              },
+              {
+                "display_url": "owenyoung.com",
+                "end": 67,
+                "expanded_url": "https://www.owenyoung.com/",
+                "start": 44,
+                "url": "https://t.co/3R7OXjor1J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "owenyoung.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.owenyoung.com/about/",
+                "start": 0,
+                "url": "https://t.co/yZ7xXOwB7u"
+              }
+            ]
+          }
+        },
+        "id": "1315602897091010561",
+        "name": "Owen",
+        "public_metrics": {
+          "followers_count": 24603,
+          "following_count": 507,
+          "like_count": 390,
+          "listed_count": 354,
+          "media_count": 148,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/yZ7xXOwB7u",
+        "username": "OwenYoungZh",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/yZ7xXOwB7u",
+          "expandedUrl": "https://www.owenyoung.com/about/",
+          "displayUrl": "owenyoung.com/about/",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/4d4SOAqXzp",
+          "expandedUrl": "http://owenyoung.com/thoughts/",
+          "displayUrl": "owenyoung.com/thoughts/",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/3R7OXjor1J",
+          "expandedUrl": "https://www.owenyoung.com/",
+          "displayUrl": "owenyoung.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "waylybaye",
+      "sourceUsernames": ["waylybaye"],
+      "displayNames": ["独立开发视角，适合看应用打磨和推广经验。Baye"],
+      "categories": ["独立开发者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2009-03-13T04:05:00.000Z",
+        "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+        "id": "24124203",
+        "name": "Baye",
+        "pinned_tweet_id": "1817766319745597450",
+        "public_metrics": {
+          "followers_count": 162112,
+          "following_count": 551,
+          "like_count": 22093,
+          "listed_count": 1333,
+          "media_count": 784,
+          "tweet_count": 15118
+        },
+        "url": "",
+        "username": "waylybaye",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "randyloop",
+      "sourceUsernames": ["randyloop"],
+      "displayNames": ["活跃开源作者和独立开发者，技术前沿感强。Randy"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2011-01-25T04:48:25.000Z",
+        "description": "Product Engineer, Blogger.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lutaonan.com",
+                "end": 23,
+                "expanded_url": "https://lutaonan.com",
+                "start": 0,
+                "url": "https://t.co/8LLvS18n6V"
+              }
+            ]
+          }
+        },
+        "id": "242605694",
+        "name": "Randy Lu",
+        "pinned_tweet_id": "1909872283273056469",
+        "public_metrics": {
+          "followers_count": 30253,
+          "following_count": 864,
+          "like_count": 3942,
+          "listed_count": 333,
+          "media_count": 1304,
+          "tweet_count": 6047
+        },
+        "url": "https://t.co/8LLvS18n6V",
+        "username": "randyloop",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/8LLvS18n6V",
+          "expandedUrl": "https://lutaonan.com/",
+          "displayUrl": "lutaonan.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "livid",
+      "sourceUsernames": ["livid"],
+      "displayNames": ["中文独立开发者和极客社区代表人物之一。Livid"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2007-03-11T15:13:27.000Z",
+        "description": "self-efficacy maxi · building @PlanetableXYZ and @V2EX · https://t.co/KGQmkzECua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "PlanetableXYZ"
+              },
+              {
+                "end": 54,
+                "start": 49,
+                "username": "V2EX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "v2ex.com/solana",
+                "end": 80,
+                "expanded_url": "https://www.v2ex.com/solana",
+                "start": 57,
+                "url": "https://t.co/KGQmkzECua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Planetable/Pla…",
+                "end": 23,
+                "expanded_url": "https://github.com/Planetable/Planet",
+                "start": 0,
+                "url": "https://t.co/Vjv56nzbvh"
+              }
+            ]
+          }
+        },
+        "id": "927051",
+        "name": "Livid",
+        "public_metrics": {
+          "followers_count": 58385,
+          "following_count": 1338,
+          "like_count": 6516,
+          "listed_count": 571,
+          "media_count": 875,
+          "tweet_count": 11310
+        },
+        "url": "https://t.co/Vjv56nzbvh",
+        "username": "Livid",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/Vjv56nzbvh",
+          "expandedUrl": "https://github.com/Planetable/Planet",
+          "displayUrl": "github.com/Planetable/Pla…",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/KGQmkzECua",
+          "expandedUrl": "https://www.v2ex.com/solana",
+          "displayUrl": "v2ex.com/solana",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "shengxj1",
+      "sourceUsernames": ["shengxj1"],
+      "displayNames": ["Web、英语和独立开发。花果山大圣"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2012-11-28T04:19:05.000Z",
+        "description": "不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发\n努力做最好的程序员讲师\n油管主页：https://t.co/kEcslLs1vs\n加入电报群:  https://t.co/fQEVZn8uNH\n合作微信：itdasheng168",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shengxj",
+                "end": 88,
+                "expanded_url": "http://www.youtube.com/@shengxj",
+                "start": 65,
+                "url": "https://t.co/kEcslLs1vs"
+              },
+              {
+                "display_url": "t.me/shengxj11",
+                "end": 120,
+                "expanded_url": "http://t.me/shengxj11",
+                "start": 97,
+                "url": "https://t.co/fQEVZn8uNH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shengxj",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shengxj",
+                "start": 0,
+                "url": "https://t.co/PIj90O4Mwx"
+              }
+            ]
+          }
+        },
+        "id": "975329340",
+        "name": "花果山大圣",
+        "pinned_tweet_id": "2003096843509715432",
+        "public_metrics": {
+          "followers_count": 54866,
+          "following_count": 1277,
+          "like_count": 2404,
+          "listed_count": 428,
+          "media_count": 2652,
+          "tweet_count": 13701
+        },
+        "url": "https://t.co/PIj90O4Mwx",
+        "username": "shengxj1",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/PIj90O4Mwx",
+          "expandedUrl": "https://linktr.ee/shengxj",
+          "displayUrl": "linktr.ee/shengxj",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/kEcslLs1vs",
+          "expandedUrl": "http://www.youtube.com/@shengxj",
+          "displayUrl": "youtube.com/@shengxj",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/fQEVZn8uNH",
+          "expandedUrl": "http://t.me/shengxj11",
+          "displayUrl": "t.me/shengxj11",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "financeyf5",
+      "sourceUsernames": ["FinanceYF5"],
+      "displayNames": ["Will"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2022-07-24T17:30:38.000Z",
+        "description": "增长顾问 | AI行业分析师，Learn in Public",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hanweilang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hanweilang",
+                "start": 0,
+                "url": "https://t.co/CiSnfQhPGA"
+              }
+            ]
+          }
+        },
+        "id": "1551258526584115204",
+        "name": "AI Will",
+        "public_metrics": {
+          "followers_count": 190123,
+          "following_count": 2749,
+          "like_count": 5731,
+          "listed_count": 2338,
+          "media_count": 26759,
+          "tweet_count": 49763
+        },
+        "url": "https://t.co/CiSnfQhPGA",
+        "username": "FinanceYF5",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/CiSnfQhPGA",
+          "expandedUrl": "https://linktr.ee/hanweilang",
+          "displayUrl": "linktr.ee/hanweilang",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "liuyi0922",
+      "sourceUsernames": ["liuyi0922"],
+      "displayNames": ["应用作者，偏产品审美和完成度。61"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2010-04-14T05:35:18.000Z",
+        "description": " Apple Design Award Winner (2025) & Finalist (2022) 🧘‍♂️𝗥𝗲𝗮𝗹 𝗮𝗿𝘁𝗶𝘀𝘁𝘀 𝘀𝗵𝗶𝗽. Founder of @MDStudioHQ ✍️https://t.co/i5KR6xW5GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "MDStudioHQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "61.life",
+                "end": 124,
+                "expanded_url": "https://61.life",
+                "start": 101,
+                "url": "https://t.co/i5KR6xW5GZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "61.life",
+                "end": 23,
+                "expanded_url": "https://61.life",
+                "start": 0,
+                "url": "https://t.co/i5KR6xW5GZ"
+              }
+            ]
+          }
+        },
+        "id": "132791298",
+        "name": "61",
+        "pinned_tweet_id": "1724014281744916487",
+        "public_metrics": {
+          "followers_count": 52985,
+          "following_count": 1613,
+          "like_count": 15527,
+          "listed_count": 482,
+          "media_count": 4779,
+          "tweet_count": 21462
+        },
+        "url": "https://t.co/i5KR6xW5GZ",
+        "username": "liuyi0922",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/i5KR6xW5GZ",
+          "expandedUrl": "https://61.life/",
+          "displayUrl": "61.life",
+          "isExternal": true
+        },
+        {
+          "source": "entities.description.urls",
+          "originalUrl": "https://t.co/i5KR6xW5GZ",
+          "expandedUrl": "https://61.life/",
+          "displayUrl": "61.life",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "fkysly",
+      "sourceUsernames": ["fkysly"],
+      "displayNames": ["路线，适合看个人开发者如何持续做产品。马天翼"],
+      "categories": ["独立开发者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2011-09-10T15:39:19.000Z",
+        "description": "Indie hacker & AI",
+        "id": "371296701",
+        "name": "马天翼",
+        "public_metrics": {
+          "followers_count": 14520,
+          "following_count": 616,
+          "like_count": 223,
+          "listed_count": 178,
+          "media_count": 487,
+          "tweet_count": 4115
+        },
+        "url": "",
+        "username": "fkysly",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "zhixianio",
+      "sourceUsernames": ["zhixianio"],
+      "displayNames": ["型独立开发账号。知县"],
+      "categories": ["独立开发者"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2018-01-17T08:33:04.000Z",
+        "description": "Idea Open-Sourcer | Agent Trainer | Full-time Tinkerer\nBuilding @clawpalxyz & @botdropapp💧 & @OwliaBot🦉\nA human of a @openclaw 🦞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "clawpalxyz"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "botdropapp"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "OwliaBot"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "openclaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhixian.io",
+                "end": 23,
+                "expanded_url": "http://zhixian.io",
+                "start": 0,
+                "url": "https://t.co/9lOL1TQvL5"
+              }
+            ]
+          }
+        },
+        "id": "953545694870032384",
+        "name": "知县｜zhixian",
+        "pinned_tweet_id": "2026248819726598556",
+        "public_metrics": {
+          "followers_count": 13105,
+          "following_count": 461,
+          "like_count": 1172,
+          "listed_count": 244,
+          "media_count": 131,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/9lOL1TQvL5",
+        "username": "zhixianio",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/9lOL1TQvL5",
+          "expandedUrl": "http://zhixian.io/",
+          "displayUrl": "zhixian.io",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "pluvio9yte",
+      "sourceUsernames": ["Pluvio9yte"],
+      "displayNames": ["生态。雪踏乌云"],
+      "categories": ["独立开发者"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2023-06-10T07:51:06.000Z",
+        "description": "💭 成功转型AI的云安全架构师\n📌 聚焦：AI & Vibe coding & Prompt & Agent \n🌏 在做：创业 | Web出海 | Web3\n🌊 持续分享AI编程、AI工具、出海干货和创业经验\n✉️ 合作私信",
+        "id": "1667439202357899267",
+        "name": "雪踏乌云",
+        "pinned_tweet_id": "2081648099680743554",
+        "public_metrics": {
+          "followers_count": 46109,
+          "following_count": 1113,
+          "like_count": 10962,
+          "listed_count": 533,
+          "media_count": 567,
+          "tweet_count": 4373
+        },
+        "url": "",
+        "username": "Pluvio9yte",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "astronaut_1216",
+      "sourceUsernames": ["Astronaut_1216"],
+      "displayNames": ["工具变现实战。Astronaut_1216"],
+      "categories": ["副业"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2024-05-20T17:27:37.000Z",
+        "description": "🐺01年 连续创业者 | 提示词专家丨AI产品分享丨前AI产品经理\n📚文科生丨AI自媒体博主丨OPC孵化丨AI收入6位数\n🌳AI/OPC培训 & AI课学习 & 企业 AI 定制化\n🌟在做Solo π LAB社区（专注AI+变现）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zephyr8.asia",
+                "end": 23,
+                "expanded_url": "http://zephyr8.asia",
+                "start": 0,
+                "url": "https://t.co/NF5oXWblWF"
+              }
+            ]
+          }
+        },
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "pinned_tweet_id": "2093550138342137973",
+        "public_metrics": {
+          "followers_count": 20778,
+          "following_count": 979,
+          "like_count": 10836,
+          "listed_count": 197,
+          "media_count": 587,
+          "tweet_count": 5710
+        },
+        "url": "https://t.co/NF5oXWblWF",
+        "username": "Astronaut_1216",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/NF5oXWblWF",
+          "expandedUrl": "http://zephyr8.asia/",
+          "displayUrl": "zephyr8.asia",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "ityouknows",
+      "sourceUsernames": ["ityouknows"],
+      "displayNames": ["AI、跨境、自媒体和副业变现路径。ityouknows"],
+      "categories": ["副业"],
+      "status": "待采集",
+      "error": null,
+      "profile": {
+        "created_at": "2012-10-11T06:03:59.000Z",
+        "description": "✍️ 公众号/知乎【纯洁的微笑】作者 🛠️ 前百人研发总监 🚀 6年创业/10年自媒体：专注 AI、跨境 、 Web3 💰 AI 跨境电商：单店营收破万，自营近 10 家店，探索出海放大中 🤝 组建了【X 增长交流群】有门槛 👇 联系我：V：smilexvip",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cxy521.com",
+                "end": 23,
+                "expanded_url": "http://www.cxy521.com",
+                "start": 0,
+                "url": "https://t.co/PgPHNyOAza"
+              }
+            ]
+          }
+        },
+        "id": "873079938",
+        "name": "纯洁的微笑",
+        "pinned_tweet_id": "2003786335425814579",
+        "public_metrics": {
+          "followers_count": 15180,
+          "following_count": 2077,
+          "like_count": 703,
+          "listed_count": 89,
+          "media_count": 257,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/PgPHNyOAza",
+        "username": "ityouknows",
+        "verified": false
+      },
+      "urls": [
+        {
+          "source": "entities.url.urls",
+          "originalUrl": "https://t.co/PgPHNyOAza",
+          "expandedUrl": "http://www.cxy521.com/",
+          "displayUrl": "cxy521.com",
+          "isExternal": true
+        }
+      ],
+      "selected": true
+    },
+    {
+      "username": "kasong2048",
+      "sourceUsernames": ["kasong2048"],
+      "displayNames": ["副业、咨询和知识变现路线。kasong2048"],
+      "categories": ["副业"],
+      "status": "无外部链接",
+      "error": null,
+      "profile": {
+        "created_at": "2020-06-01T13:13:30.000Z",
+        "description": "🥴 OPC 5 年\n📖《React设计原理》作者",
+        "id": "1267444107552546816",
+        "name": "卡颂",
+        "public_metrics": {
+          "followers_count": 13254,
+          "following_count": 168,
+          "like_count": 129,
+          "listed_count": 134,
+          "media_count": 125,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "kasong2048",
+        "verified": false
+      },
+      "urls": [],
+      "selected": false
+    },
+    {
+      "username": "expatlevi",
+      "sourceUsernames": ["expatlevi"],
+      "displayNames": ["地理套利、出海工具和副业工具分享。expatlevi"],
+      "categories": ["副业"],
+      "status": "账号不可用",
+      "error": {
+        "detail": "Could not find user with usernames: [expatlevi].",
+        "parameter": "usernames",
+        "resource_id": "expatlevi",
+        "resource_type": "user",
+        "title": "Not Found Error",
+        "type": "https://api.x.com/2/problems/resource-not-found",
+        "value": "expatlevi"
+      },
+      "profile": null,
+      "urls": [],
+      "selected": false
+    }
+  ]
+}

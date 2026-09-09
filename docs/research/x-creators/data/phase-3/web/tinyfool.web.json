@@ -1,0 +1,44 @@
+{
+  "username": "tinyfool",
+  "capturedAt": "2026-09-09T08:59:22.096Z",
+  "pages": [
+    {
+      "requestedUrl": "https://codechina.org/",
+      "finalUrl": "https://codechina.org/",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T08:59:14.613Z",
+      "title": "首页 - Tinyfool的个人网站",
+      "description": "最新更新 最新更新-> 关于Tinyfool Tinyfool，真名郝培强。1979年生人，自由职业（自 [&hellip;]",
+      "headings": [
+        "首页",
+        "近期文章",
+        "最新评论",
+        "标签",
+        "友情链接"
+      ],
+      "pricingSnippets": [
+        "创作者装备指南：摄像机、灯光和麦克风（2025 年指南） 23 10 月, 2025 我做了一个全 AI 生成YouTube 频道，十天后我发现了这些真相 22 10 月, 2025 为什么只有3万订阅的频道能有1800万播放量？——Youtube长青内容的威力 28 9 月, 2025 如何创作 YouTube 的长青内容 25 9 月, 2025 最近是我最抑郁的时光，但是我想陪大家一起努力过好我们的人生 24 9 月, 2025 用手机拍摄：不用相机也能开启 YouTube 频道（2025 指南） 20 9 月",
+        "南：2025 年新手低成本设备配置 初学 YouTube 创作者装备指南：摄像机、灯光和麦克风（2025 年指南） 我做了一个全 AI 生成YouTube 频道，十天后我发现了这些真相 为什么只有3万订阅的频道能有1800万播放量？——Youtube长青内容的威力 如何创作 YouTube 的长青内容 Youtube创作 英语学习 英语轻松读iOS版更新1.20版，优化UI，增加字体修改功能 汉语会不会代替英语成为全球第一地位的语言？￼ 学习英语应该看哪些美剧？谈谈自由学习材料的选择。别提新概念英语，新概念英语早就落伍"
+      ]
+    },
+    {
+      "requestedUrl": "http://youtube.com/c/tinyfoolgmail",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:19.934Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://tinyurl.com/2j928ecm",
+      "finalUrl": "https://www.youtube.com/channel/UCdhngtoCb1xRmJQqkS5DpfA",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:22.092Z",
+      "title": "Tinyfool的胡说八道 - YouTube",
+      "description": "Share your videos with friends, family, and the world",
+      "headings": [],
+      "pricingSnippets": []
+    }
+  ]
+}

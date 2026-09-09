@@ -186,6 +186,14 @@ tweet.fields=id,text,created_at,public_metrics,entities,attachments,article,conv
 - 入选后合并所有 `pinned_tweet_id`，批量查询帖子。
 - 如果置顶帖已包含在最近 5 条中，只分析一次。
 
+原始数据保存规则：
+
+- 每次 X API 成功响应均以独立的 `*.raw.json` 文件原样保存，不覆盖为清洗后结构。
+- 清洗、筛选、状态和预算等派生字段保存到另外的 JSON 或 Markdown 文件。
+- Phase 1 用户批量响应保存为 `data/phase-1/x-api-users-by.raw.json`。
+- Phase 2 近期帖子按账号保存为 `data/phase-2/raw/{handle}.recent.raw.json`，置顶帖批量响应保存为 `data/phase-2/raw/pinned.raw.json`。
+- 原始响应文件不包含本地 Bearer Token 或请求认证头。
+
 ### 4.2 主页及产品网站
 
 每位入选用户默认最多读取 5 个相关页面：
@@ -378,14 +386,17 @@ Tags
 5. 统一切换为 Published。
 6. 在 NotionNext 中逐一验证公开路径。
 
-### 当前阻塞
+### Notion 连接状态
 
-截至 2026-09-09，当前 Codex 会话未暴露 Notion 工具、MCP 资源或资源模板，无法搜索“闲裁彩山”或创建页面。执行发布批次前需要：
+截至 2026-09-09，Notion 连接已可用，并已读取“闲裁彩山”的实际数据源 Schema。
 
-1. 在 Codex 中启用 Notion App/连接器。
-2. 完成 Notion OAuth 授权。
-3. 授权访问“闲裁彩山”页面或数据库。
-4. 重新检查 Notion Search、Fetch、Create Pages 和 Update Page 是否可用。
+- 数据源：`collection://15113421-7623-81b2-a625-000b72c017db`
+- 属性：`title`、`type`、`category`、`tags`、`status`、`slug`、`date`、`summary`、`icon`、`password`
+- `status`：`Published`、`Invisible`、`Draft`
+- `type`：`Post`、`Page`、`Notice`、`Menu`、`SubMenu`、`Config`
+- `category`：`技术分享`、`工具推荐`、`知行合一`、`心情随笔`
+
+本批次报告使用 `type=Post`、`status=Draft` 创建；`category` 和 `tags` 只使用 Schema 已允许的值，不在发布期间修改数据库 Schema。
 
 ## 9. 费用预算
 
@@ -438,47 +449,89 @@ Auto-recharge: Off
 - [x] 从五个领域提取账号。
 - [x] 73 条记录去重为 68 个唯一账号。
 - [x] 确认 NotionNext 支持目标多级 Slug。
-- [ ] 连接 Notion 并读取目标数据库 Schema。
-- [ ] 确认 X API Spending Limit 不高于 $3，Auto-recharge 已关闭。
+- [x] 连接 Notion 并读取目标数据库 Schema。
+- [x] 确认 X API Spending Limit 不高于 $3，Auto-recharge 已关闭。
 
 ### Phase 1：主页筛选
 
-- [ ] 批量读取 68 个账号的主页资料。
-- [ ] 展开主页和简介中的 URL。
-- [ ] 排除纯 X 站内链接。
-- [ ] 生成入选名单和未入选名单。
-- [ ] 按入选人数重新计算后续帖子费用。
+- [x] 批量读取 68 个账号的主页资料。
+- [x] 展开主页和简介中的 URL。
+- [x] 排除纯 X 站内链接。
+- [x] 生成入选名单和未入选名单。
+- [x] 按入选人数重新计算后续帖子费用。
 
 **检查点：** 在产生 Post Read 费用前，先报告最终入选人数、名单和精确预算。
 
+2026-09-09 检查点结果：
+
+- 正常返回 66 个账号，2 个账号不可用（`@lyc_zh`、`@expatlevi`）。
+- 53 个账号存在有效外部链接并进入后续分析队列。
+- 13 个正常返回的账号没有有效外部链接，按本轮标准不入选。
+- 主页读取预算：`$0.68`；X Developer Console 实际费用：`$0.69`。
+- 后续帖子读取费用上限：`53 × $0.03 = $1.59`。
+- 按实际主页费用计算的项目总费用上限：`$0.69 + $1.59 = $2.28`。
+- 完整结果：`docs/research/x-creators/data/phase-1/screening.md`。
+- 进入 Phase 3 前，用户确认 X Developer Console 累计实际费用为 `$0.80`；剩余 48 人帖子读取上限 `$1.44`，预计累计不超过 `$2.24`。
+
 ### Phase 2：5 人试生产
 
-- [ ] 选择具有不同产品形态的 5 个用户。
-- [ ] 抓取网站、Pricing 和 About 等页面。
-- [ ] 获取最近 5 条原创帖和置顶帖。
-- [ ] 生成 5 份完整报告。
-- [ ] 检查产品归属、付费判断、引用和表达风格。
+- [x] 选择具有不同产品形态的 5 个用户。
+- [x] 抓取网站、Pricing 和 About 等页面。
+- [x] 获取最近 5 条原创帖和置顶帖。
+- [x] 生成 5 份完整报告。
+- [x] 检查产品归属、付费判断、引用和表达风格。
+
+试生产样本：@gefei55、@tualatrix、@indie_maker_fox、@yupi996、@seclink。近期原创帖共返回 24 条；4 个置顶 ID 中返回 3 条，@seclink 的置顶帖返回 Not Found。原始响应位于 data/phase-2/raw/，报告位于 data/phase-2/reports/。
 
 **检查点：** 先验证模板质量和错误类型，再扩大到全部入选用户。
 
 ### Phase 3：批量分析
 
-- [ ] 以 3–4 路并发处理剩余用户。
-- [ ] 保存每位用户的原始证据、采集时间和来源。
-- [ ] 生成统一结构的报告初稿。
-- [ ] 将失败账号标记为“待重试”或“需人工核验”。
-- [ ] 对产品归属和付费方式做人工复核。
+- [x] 以 3–4 路并发处理剩余用户。
+- [x] 保存每位用户的原始证据、采集时间和来源。
+- [x] 生成统一结构的报告初稿。
+- [x] 将失败账号标记为“待重试”或“需人工核验”。
+- [x] 对产品归属和付费方式做人工复核。
+
+Phase 3 结果：48 个剩余账号全部获得独立近期帖子原始响应，共 229 条；34 个置顶 ID 返回 33 条。共检查 84 个站外页面，55 个成功访问，失败状态保留在 phase-3/web。已生成 48 份统一报告，无法访问官网或没有明确价格时均保留证据边界。
 
 ### Phase 4：总编与发布
 
-- [ ] 统一产品分类和付费方式。
-- [ ] 汇总产品方向、付费模式和内容打法。
-- [ ] 创建 Notion 用户子页面。
-- [ ] 创建 Notion 总览页面并建立子页面链接。
-- [ ] 为子页面添加总览页返回链接。
-- [ ] 检查 Slug 唯一性。
+- [x] 统一产品分类和付费方式。
+- [x] 汇总产品方向、付费模式和内容打法。
+- [x] 创建 Notion 用户子页面。
+- [x] 创建 Notion 总览页面并建立子页面链接。
+- [x] 为子页面添加总览页返回链接。
+- [x] 检查 Slug 唯一性。
 - [ ] 将页面从 Draft 切换为 Published。
 - [ ] 验证所有 NotionNext 公共路径。
+
+Notion 已创建 1 个总览和 54 个个人 Draft；数据库查询确认 55 个 Slug 唯一且状态均为 Draft。页面映射保存于 data/notion-pages.json。公开发布与 NotionNext 路径验证等待用户确认。
+
+### 增量账号：@ruguodev
+
+- [x] 独立保存用户资料与最多 5 条近期原创帖的 X API 原始响应，不覆盖 Phase 1–3 文件。
+- [x] 核验个人主页、Next Launch、IndexOf.AI 和 domaindex，共 4 个公开页面。
+- [x] 生成个人分析报告，并将横向总览从 53 人更新为 54 人。
+- [x] 创建 @ruguodev 的 Notion Draft，并更新现有总览 Draft。
+- [x] 查询数据库，确认 55 个 Slug 唯一且全部保持 Draft。
+
+增量 X API 请求上限按 1 次用户资料和最多 5 条帖子估算为约 $0.04；实际费用仍以 X Developer Console 为准。本次用户资料没有 pinned_tweet_id，因此没有发起置顶帖请求。
+
+Notion 增量结果：新增 Ruguo 个人 Draft 页面（Page ID：3d613421-7623-81ac-909c-e26aad7badf7），并将既有总览 Draft 更新为 54 人。最终数据库查询返回 55 个相关页面、55 个唯一 Slug，状态全部为 Draft；尚未公开发布。
+
+### Notion 内容重构与浏览器复查
+
+- [x] 移除 54 份个人报告中的“证据”章节与本地文件路径。
+- [x] 将“近期内容打法”统一重构为 Notion 友好的内容表现表格。
+- [x] 将报告口吻调整为专业出海从业者视角，删除抓取错误、状态码和机械化结论。
+- [x] 使用内嵌 Chrome 对 29 个原失败 URL 批量重试：22 个成功渲染，排除 2 个无关跳转后，将 20 个相关页面补充进报告。
+- [x] 覆盖更新 1 个总览与 54 个个人 Notion Draft。
+- [x] 查询数据库并抽查页面，确认内容、Slug 和 Draft 状态。
+
+浏览器复查显示，原失败并非单一的 curl 拦截问题：旧采集器使用 Node fetch，部分站点依赖浏览器跳转或动态渲染；少量站点在真实 Chrome 中仍返回 502、连接关闭或空白页。浏览器原始复查结果保存于 data/browser-retry/browser-retry.raw.json。
+
+Notion 更新后抽查了 Cydiar、Jeffery Kaneda、luobogor、哥飞、Ruguo 和总览页：个人页均包含“核心判断”和原生表格形式的“近期内容表现”，未出现“证据”章节、本地路径或抓取错误措辞。数据库最终查询仍为 55 个唯一 Slug，状态全部为 Draft。
 
 ## 11. 数据状态与失败处理
 
@@ -519,7 +572,7 @@ Auto-recharge: Off
 - [ ] 跨领域账号只生成一份报告并保留多值领域标签。
 - [ ] 每位用户只有一个唯一 Slug。
 - [ ] 总览页可以访问全部用户报告。
-- [ ] 每个用户报告可以返回总览页。
+- [x] 每个用户报告可以通过 https://www.createsun.work/article/tweets-influencer-analyze 返回总览页。
 - [ ] 全部 NotionNext 公共路径实际可打开。
 - [ ] 总 X API 费用不超过 $3。
 - [ ] 文档记录采集日期、来源和研究限制。

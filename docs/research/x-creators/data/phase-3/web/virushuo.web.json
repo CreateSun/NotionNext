@@ -1,0 +1,25 @@
+{
+  "username": "virushuo",
+  "capturedAt": "2026-09-09T08:59:14.687Z",
+  "pages": [
+    {
+      "requestedUrl": "https://jhuo.ca/",
+      "finalUrl": "https://jhuo.ca/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:14.684Z",
+      "title": "HuoJu's BLOG",
+      "description": "huoju's blog",
+      "headings": [
+        "围绕RMS、开源、自由软件的两场“战争”",
+        "Ocsp Stapling 和iOS界面卡顿问题",
+        "开源是自由的，永远",
+        "别闹，买图片根本不贵，但前提…",
+        "互联网之子 Aaron Swarts 想要看到的世界"
+      ],
+      "pricingSnippets": [
+        "BLOG Home Archives Tags Lists About 围绕RMS、开源、自由软件的两场“战争” 2021-04-25 我不是 Stallman (RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。 它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个"
+      ]
+    }
+  ]
+}

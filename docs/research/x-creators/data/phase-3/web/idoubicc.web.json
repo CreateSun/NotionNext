@@ -1,0 +1,93 @@
+{
+  "username": "idoubicc",
+  "capturedAt": "2026-09-09T08:59:40.981Z",
+  "pages": [
+    {
+      "requestedUrl": "https://idoubi.ai/",
+      "finalUrl": "https://idoubi.ai/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:29.130Z",
+      "title": "idoubi",
+      "description": "idoubi — indie developer & full-stack engineer. Shipping AI products globally, writing about MCP, agents, and building in public.",
+      "headings": [
+        "idoubi",
+        "About Me",
+        "My Products",
+        "WeClaw",
+        "FastClaw",
+        "WorkAny",
+        "MCP.so",
+        "ShipAny",
+        "ThinkAny",
+        "My Book",
+        "This is MCP",
+        "Services",
+        "AI Product Club",
+        "1024 Full-Stack Community",
+        "Tech Consulting",
+        "Coffee Chat",
+        "Talks & Training",
+        "Tech Advisor"
+      ],
+      "pricingSnippets": [
+        "I products globally. AI Product Club Use AI to build and ship your idea into a product. Live Course ¥699 / quarter 1024 Full-Stack Community Learn full-stack development, exchange overseas experience. Live Community ¥1024 / year Tech Consulting Product discussio",
+        "n, technical consulting, career planning. Consulting ¥2048 / hour Coffee Chat Learn product development face-to-face, and grab a coffee with me. Offline Discussion ¥4096 / session Talks & Training Go to the specifie",
+        "d venue to give a talk or run a training session. Offline Sharing ¥8192 / session Tech Advisor Participate in your product development, solve technical problems. Assistant Development ¥60k / mo Contact Me A logical mind is one i"
+      ]
+    },
+    {
+      "requestedUrl": "http://shipany.ai/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:34.685Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://mcp.so/",
+      "finalUrl": "https://mcp.so/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:40.968Z",
+      "title": "MCP.so - MCP Marketplace",
+      "description": "Connect AI apps to tools, data, and automated workflows.",
+      "headings": [
+        "Discover useful MCP servers",
+        "Top categories",
+        "Developer Tools",
+        "AI & Agents",
+        "Cloud & Infrastructure",
+        "Memory & Knowledge",
+        "Media & Design",
+        "Featured servers",
+        "LocalCan",
+        "Clipkit",
+        "Agentery",
+        "OrangePro",
+        "Medplum",
+        "Air Pipe",
+        "Atomic Mail Agentic",
+        "Kin",
+        "Subtext",
+        "Featured clients",
+        "Roamzy",
+        "FormLM",
+        "SocialBu",
+        "Gocosmik",
+        "Featured CLI tools",
+        "Bun",
+        "Cloudflare Wrangler",
+        "DuckDB CLI",
+        "FFmpeg",
+        "Featured loops",
+        "Build Until Green",
+        "A11y Audit Until Clean"
+      ],
+      "pricingSnippets": [
+        "nistic MP4s on a GPU runtime. Added 28 days ago 11 Agentery ntlgnc Free MCP for live and historical pricing for 13,000+ agents and MCPs. Never knowingly pay too much... or charge too little. Know the going rate. https://agentery.com. Added last month OrangePro Aamir",
+        "arrivals Recently published servers View all pulse-verity PulseBet Signed, verifiable crypto index prices for 5,000+ assets from the Pulse Verity Index. Five read-only tools: current price, batch prices, asset catalogue, the recorded print nearest a timestamp, and",
+        "ho bbrysonelite-max MCP server: resolve a company name, domain or LEI to its GLEIF legal entity for $0.05 via x402 — one tool, spend caps, free terms preview Added 4 days ago Lawstronaut Legal Research Lawstronaut-FZCO Connect your AI to millions of laws and cou"
+      ]
+    }
+  ]
+}

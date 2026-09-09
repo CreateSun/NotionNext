@@ -1,0 +1,36 @@
+{
+  "username": "lxfater",
+  "capturedAt": "2026-09-09T08:59:13.385Z",
+  "pages": [
+    {
+      "requestedUrl": "https://www.lxfater.com/",
+      "finalUrl": "https://www.lxfater.com/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:13.384Z",
+      "title": "铁锤人 - 独立创业者",
+      "description": "我是一名独立创业者，希望通过我的经历和领悟,帮助更好地构建自己的产品，并且将其销售出去",
+      "headings": [
+        "铁锤人",
+        "我的服务",
+        "独立开发营销咨询",
+        "X 社媒起号咨询",
+        "AI 编程咨询",
+        "我的项目",
+        "DemoGet",
+        "TinyEraser",
+        "铁锤人",
+        "微信公众号",
+        "小红书",
+        "我的服务",
+        "独立开发营销咨询",
+        "X 社媒起号咨询",
+        "AI 编程咨询",
+        "我的项目",
+        "DemoGet",
+        "TinyEraser"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

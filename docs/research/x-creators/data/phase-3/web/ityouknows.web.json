@@ -1,0 +1,31 @@
+{
+  "username": "ityouknows",
+  "capturedAt": "2026-09-09T09:01:00.008Z",
+  "pages": [
+    {
+      "requestedUrl": "http://www.cxy521.com/",
+      "finalUrl": "http://www.cxy521.com/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:01:00.003Z",
+      "title": "开发者导航 - 程序员一站式工具导航 | 程序员工具大全",
+      "description": "程序员一站式导航平台，汇集AI工具、前端开发、后端开发、Python、Java等技术资源。包含GitHub、Stack Overflow、ChatGPT、v0.dev等1000+优质开发工具和学习资源，助力程序员高效开发。",
+      "headings": [
+        "技术社区",
+        "常用工具",
+        "开发工具",
+        "AI 编程",
+        "文档 & 手册",
+        "数据库 & 中间件",
+        "移动开发",
+        "大数据 & 云计算",
+        "算法 & 面试",
+        "社区 & 资讯",
+        "关于我们",
+        "反馈与提交",
+        "关注公众号"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

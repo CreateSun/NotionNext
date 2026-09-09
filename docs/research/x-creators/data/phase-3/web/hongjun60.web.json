@@ -1,0 +1,53 @@
+{
+  "username": "hongjun60",
+  "capturedAt": "2026-09-09T08:59:56.471Z",
+  "pages": [
+    {
+      "requestedUrl": "https://sv101.fireside.fm/",
+      "finalUrl": "https://sv101.fireside.fm/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:41.353Z",
+      "title": "硅谷101",
+      "description": "这是一档分享当下最新鲜的技术、知识与思想的科技播客",
+      "headings": [
+        "硅谷101",
+        "这是一档分享当下最新鲜的技术、知识与思想的科技播客",
+        "About the show",
+        "Your Hosts",
+        "Episodes",
+        "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
+        "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+        "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE",
+        "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+        "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+        "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+        "E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+        "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+        "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
+        "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
+        "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
+        "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+        "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+        "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
+        "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
+        "E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学"
+      ],
+      "pricingSnippets": []
+    },
+    {
+      "requestedUrl": "http://sv101.fireside.fm/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:46.462Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "https://web3101.fireside.fm/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:56.471Z",
+      "error": "fetch failed"
+    }
+  ]
+}

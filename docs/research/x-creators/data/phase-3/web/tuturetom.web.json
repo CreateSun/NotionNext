@@ -1,0 +1,59 @@
+{
+  "username": "tuturetom",
+  "capturedAt": "2026-09-09T08:59:40.150Z",
+  "pages": [
+    {
+      "requestedUrl": "https://github.com/nexu-io/nexu",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:38.174Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://github.com/nexu-io/open-design",
+      "finalUrl": "https://github.com/nexu-io/open-design",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:40.128Z",
+      "title": "GitHub - nexu-io/open-design: 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. · GitHub",
+      "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. - nexu-io/open-design",
+      "headings": [
+        "Navigation Menu",
+        "Uh oh!",
+        "Latest commit",
+        "History",
+        "Folders and files",
+        "Repository files navigation",
+        "OpenDesign: The open-source Claude Design alternative",
+        "What is OpenDesign",
+        "Product tour",
+        "Core pages",
+        "Studio — many artifact types in one project",
+        "Platform Compatibility",
+        "Demo",
+        "1 · Prototypes — web · desktop · mobile",
+        "2 · Live artifacts & dashboards",
+        "3 · Decks — magazine decks, weekly updates, pitches",
+        "4 · Images — gpt-image-2 , ImageRouter, custom API",
+        "5 · Video & HyperFrames — agent-native motion graphics",
+        "Why OpenDesign",
+        "Comparison",
+        "Quick start",
+        "🖥️ Download the desktop app (recommended — zero config)",
+        "🤖 Install into your coding agent (no UI)",
+        "🐳 Run with Docker",
+        "🚀 Deploy on Sealos",
+        "🧑‍💻 Run from source",
+        "A full workflow — from brief to artifact",
+        "Use OpenDesign from your coding agent",
+        "Skills and design templates",
+        "Design Systems"
+      ],
+      "pricingSnippets": [
+        "res Copilot for Business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Pricing Search / Sign in Sign up Appearance settings You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window.",
+        "· 16:9 · Apple-style route reveal 4s cinematic logo outro · 16:9 · piece-by-piece assembly + bloom $0 → $10K money counter · 9:16 · Apple-style hype Website-to-video · 16:9 · captures the site at 3 viewports 11 HyperFrames templates + 39 Seedance prompts ship w",
+        "ype prototype design Default landing page / hero saas-landing prototype marketing Hero / features / pricing / CTA dashboard prototype operation Admin / analytics (with sidebar) mobile-app prototype design iPhone 15 Pro / Pixel framed app mobile-onboarding prototype d"
+      ]
+    }
+  ]
+}

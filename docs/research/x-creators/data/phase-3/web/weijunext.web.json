@@ -1,0 +1,80 @@
+{
+  "username": "weijunext",
+  "capturedAt": "2026-09-09T09:00:07.045Z",
+  "pages": [
+    {
+      "requestedUrl": "https://weijunext.com/",
+      "finalUrl": "https://weijunext.com/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:54.507Z",
+      "title": "J实验室",
+      "description": "全栈工程师，Next.js开源手艺人，折腾才有未来",
+      "headings": [
+        "J实验室",
+        "🚀 我的产品推荐：",
+        "J实验室",
+        "博客",
+        "Next.js 学习",
+        "Next.js 模板",
+        "独立开发者工具"
+      ],
+      "pricingSnippets": [
+        "J实验室 全栈工程师，Next.js开源手艺人，折腾才有未来 🚀 我的产品推荐： Nexty.dev 全栈模板 - 多场景 Next.js SaaS 全栈模板，内置了开箱即用的登录、支付、AI、邮件订阅等基础设施，让你真正专注于业务逻辑 Next.js 中文文档 - Next.js 最新中文文档，完整同步官方文档内容和网站样式 2025-08-06 🔥 构建全栈模板 Nexty.dev：100天内从零到90位付费客户 2024-09-06 🔥 「Next.js中文文档」网站发布 2024-04-28 🔥 Rea",
+        "整理了一份独立开发者出海技术栈 2025-05-15 我做了一个真正开箱即用的 Next.js SaaS 全栈模板 2025-03-20 使用 CloudFlare 和 Resend 快速实现网站邮件订阅（newsletter）功能 2025-03-18 如何为 Plasmo 开发的 Chrome 扩展添加 Google Analytics 2025-02-06 自部署Dokploy和Vercel、Zeabur项目迁移手册 2024-11-08 5分钟搞定！给Next.js项目集成Algolia DocSearch搜索",
+        "用localtunnel实现内网穿透，完成支付功能的调试 2023-10-06 提升网站搜索排名：Next.js的关键SEO配置 2023-10-30 基于Lemon Squeezy开发你的全球可用的会员功能 2023-10-05 带你设计一套会员功能并开发它 2023-09-21 精读React hooks（十六）：一个为代码优雅而生的hook——use 2023-09-20 精读React hooks（十五）：把useDebugValue加入你的React调试工具库 2023-09-19 精读React hooks"
+      ]
+    },
+    {
+      "requestedUrl": "https://nexty.dev/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:04.520Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "https://nextjscn.org/",
+      "finalUrl": "https://nextjscn.org/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:07.041Z",
+      "title": "Next.js 16 中文文档",
+      "description": "Next.js 16 中文文档是官方英文文档最新、最全面的中文翻译，欢迎中文开发者使用 Next.js 中文文档学习 Next.js，本文档包括 Next.js app router 和 Next.js pages router 知识",
+      "headings": [
+        "Next.js 16 中文文档",
+        "Next.js 16 有哪些更新？",
+        "默认启用 Turbopack",
+        "Cache Components（取代实验性 PPR）",
+        "异步请求 API 全面生效",
+        "路由预取与缓存升级",
+        "React 19.2 / React Compiler",
+        "从 middleware 到 proxy",
+        "什么是 Next.js？",
+        "Turbopack 默认启用",
+        "Cache Components（稳定的 PPR）",
+        "异步请求 API",
+        "路由预取与缓存升级",
+        "React 19.2 与 React Compiler",
+        "内置优化",
+        "数据获取",
+        "服务器操作（Server Actions）",
+        "高级路由",
+        "动态 HTML 流式传输",
+        "CSS 支持",
+        "路由处理器",
+        "中间件",
+        "React 服务器组件",
+        "灵活渲染",
+        "Next.js 核心概念",
+        "核心特性",
+        "性能优化",
+        "中文文档特色",
+        "同步 Next.js 16 官方文档",
+        "持续同步更新"
+      ],
+      "pricingSnippets": [
+        "che Components 等需要重点关注。 社群交流 欢迎 Next.js 中文开发者加入交流群，一起学习 Next.js 技术，一起交流出海技能。 Discord 交流群 微信交流群 关注即刻 订阅我们的邮件 获取最新的 Next.js 资讯和教程 订阅 Resources 中文文档 社区资源 实时数据 Showcase Blog Analytics Previews 开始学习 Getting Started Guides API Reference Architecture Community 推荐 全栈Saa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "username": "luinlee",
+  "capturedAt": "2026-09-09T09:00:18.260Z",
+  "pages": [
+    {
+      "requestedUrl": "https://zihua.li/",
+      "finalUrl": "https://zihua.li/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:18.259Z",
+      "title": "Zihua Li",
+      "description": "Engineering leader with a track record of building high-performance teams and architecting scalable systems.",
+      "headings": [
+        "Zihua Li",
+        "Projects",
+        "ioredis",
+        "Quill ecosystem",
+        "Medis",
+        "Writing"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

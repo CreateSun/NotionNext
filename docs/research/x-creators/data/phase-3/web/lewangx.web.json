@@ -1,0 +1,13 @@
+{
+  "username": "lewangx",
+  "capturedAt": "2026-09-09T09:00:12.496Z",
+  "pages": [
+    {
+      "requestedUrl": "https://lewang.dev/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:12.496Z",
+      "error": "fetch failed"
+    }
+  ]
+}

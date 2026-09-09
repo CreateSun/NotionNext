@@ -1,0 +1,27 @@
+{
+  "username": "luobogooooo",
+  "capturedAt": "2026-09-09T09:00:47.509Z",
+  "pages": [
+    {
+      "requestedUrl": "https://bento.me/luobogor",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:32.002Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "https://mvpai.dev/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:37.503Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "https://indiehackertools.net/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:47.509Z",
+      "error": "fetch failed"
+    }
+  ]
+}

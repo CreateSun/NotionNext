@@ -1,0 +1,39 @@
+{
+  "username": "xdash",
+  "capturedAt": "2026-09-09T08:59:44.115Z",
+  "pages": [
+    {
+      "requestedUrl": "https://zengzhang.ai/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:25.080Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://zengzhang.ai/",
+      "finalUrl": "https://www.zengzhang.ai/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:38.453Z",
+      "title": "AI Growth Hacking Weekly · 增长黑客AI周报 | 范冰 XDash | Substack",
+      "description": "「增长黑客AI周报」是《增长黑客》作者范冰主理的一份免费的邮件列表（Newsletter），聚焦 AI 商业增长与创业家智识成长，每周四更新。. Click to read AI Growth Hacking Weekly · 增长黑客AI周报, by 范冰 XDash, a Substack publication with tens of thousands of subscribers.",
+      "headings": [
+        "AI Growth Hacking Weekly · 增长黑客AI周报"
+      ],
+      "pricingSnippets": []
+    },
+    {
+      "requestedUrl": "https://xdash.me/",
+      "finalUrl": "https://xdash.me/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:44.113Z",
+      "title": "XDash Weblog — XDash Weblog",
+      "description": "范冰的博客（XDash Weblog）",
+      "headings": [
+        "XDash Weblog"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

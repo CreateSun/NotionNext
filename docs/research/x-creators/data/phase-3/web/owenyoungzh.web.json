@@ -1,0 +1,66 @@
+{
+  "username": "owenyoungzh",
+  "capturedAt": "2026-09-09T09:00:53.999Z",
+  "pages": [
+    {
+      "requestedUrl": "https://www.owenyoung.com/about/",
+      "finalUrl": "https://www.owenyoung.com/about",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T09:00:47.011Z",
+      "title": "About - Owen",
+      "description": "我是 Owen，是一位开发者，目前居住在上海。我把这里定位成我的数字个人花园，存放我的笔记，想法和生活记录。 这个博客主要分为几个部分： Featured 会列出所有精选的文章，更新频率低 - RSS订阅地址Latest 也就是首页，for...",
+      "headings": [
+        "About",
+        "更多关于 Jant 的介绍",
+        "订阅",
+        "我的生活哲学",
+        "找到我的方式"
+      ],
+      "pricingSnippets": [
+        "我是 Owen，是一位开发者，目前居住在上海。我把这里定位成我的数字个人花园，存放我的笔记，想法和生活记录。 这个博客主要分为几个部分： Featured 会列出所有精选的文章，更新频率低 - RSS订阅地址 Latest 也就是首页，for 主动来博客首页逛的人，更新频率较高。这样设计的目的是不打扰大多数订阅用户的同时，让我发布的摩擦力变得更低，以此促进自己的写作（or 思考）。 Archive 则真正囊括了所有的 Posts，更新频率极高。这个主要是给我自己看的。因为我把博客当数字花园，所以会记录很多东西，所以如果",
+        "，它是一个 开源的博客 ，你可以自部署，也可以在 Jant 上一键注册开通。 我一直相信练习写作需要公开表达。只有这样，我们才能让自己的思考变得清晰。但是对我来说，如果每条新内容都要推送给 RSS 订阅者，发布的心理门槛就会提高很多，最后要么不写要么无限推迟。 所以 Jant 想解决的核心问题就是：降低发布的摩擦力，用精心设计的机制鼓励作者多写多发。主要是通过以下 3 种设计： 采用现代 UI，用类似 Threads/Twitter 的方式发帖，支持 Thread，把多个帖子串起来，当然常见的快捷键都支持，比如任何页",
+        "之一。 至此，Jant 基本解决了我对个人博客的所有想像，我也很高兴能制作这种自己会长期使用的工具，如果你也需要这样一个工具，可以从 快速使用文档 这里立刻开始。或者可以看看这篇 为什么要写博客 。 订阅 请通过 RSS 阅读器订阅，我使用 NetNewsWire 客户端来管理我的中文订阅。 精选帖子订阅链接(推荐绝大多数人使用此链接）： https://www.owenyoung.com/feed 如果你真的想看所有的首页帖子/或者任何帖子，下面两个订阅链接是你读到这里的彩蛋： 首页帖子订阅链接： https://w",
+        "ww.owenyoung.com/latest/feed 所有帖子的订阅链接： https://www.owenyoung.com/archive/feed 其他的话， Collections 下每个主题都可以单独订阅，格式是： https://www.owenyoung.com/<slug>/feed , 比如: https://www.owenyoung.com/now/feed 我的"
+      ]
+    },
+    {
+      "requestedUrl": "http://owenyoung.com/thoughts/",
+      "finalUrl": "https://www.owenyoung.com/thoughts",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T09:00:53.805Z",
+      "title": "Thoughts - Owen",
+      "description": "",
+      "headings": [
+        "Thoughts"
+      ],
+      "pricingSnippets": [
+        "资料中更多的了解对方。 此刻我多么希望每个 Bumble 上的人都能链接一个自己的博客啊，这样才能有更多的上下文。 （难道应该做一个 Blog Dating App? Ps. 今天发现苹果尼日利亚区的终身会员才人民币 150 左右，我以前开过一个月，但是发现效率其实并不高。所以也许开一个终身版是很有必要的。 Aug 16, 2026 · Now 要坚持早睡早起的习惯，意味着我晚上不能吃的太晚，也不能太晚喝酒或者剧烈运动，也意味着一定要早起，这样才能早点睡着。💪 Aug 10, 2026 · Now Show more"
+      ]
+    },
+    {
+      "requestedUrl": "https://www.owenyoung.com/",
+      "finalUrl": "https://www.owenyoung.com/",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "capturedAt": "2026-09-09T09:00:53.996Z",
+      "title": "Owen",
+      "description": "",
+      "headings": [
+        "当前想置顶的一些内容",
+        "介绍一家最近去的头马 Toastmasters 演讲俱乐部",
+        "这家咖啡馆的每位常客都有一只专属马克杯",
+        "文学作品中的比喻",
+        "人类并不想要无穷无尽的内容，我们想要的是共同点",
+        "如何摆脱多巴胺文化?",
+        "做你喜欢的事并不代表钱会随之而来",
+        "中产阶级音乐人正在消失吗？"
+      ],
+      "pricingSnippets": [
+        "才知道头马这个词）。它是一个非营利的演讲组织，全球有一万五千多家分支俱乐部，上海有 100 多家。头马总部提供品牌+基本流程（黑话，仪式等），各个俱乐部高度自治，大家用的基本流程类似（下文会介绍到），会员入会是按半年交会费（各地价格不一样，我去的这家似乎是半年 800 左右，其中 500 块上交给总部的，但如果你经常贡献演讲和角色，会费会按比例返还一些）。 听到这里是不是警报已经响起哈哈： 听名字和流程有一种浓浓的成功学味。 会费 + 发展会员，像邪教+传销。 Continue → Aug 29, 2026 · Now",
+        "tenberg.com Jul 22, 2026 我们必须犯错误，这样我们才学会同情别人。 《美国夫人》 Jul 21, 2026 你能想象一种永远不需要升级的数据存储方案吗？更棒的是，它无需支付任何订阅费。而且该系统从不会崩溃——有记录以来，它从未出现过哪怕一分钟的停机时间。 – 没有服务条款。 – 无隐藏费用。 –无需与客服机器人打交道。 – 不会收到烦人的后续垃圾邮件和短信。 – 绝不侵犯隐私，也不进行任何形式的监控。 – 无论现在还是将来，都不会出现数据不兼容的问题。 – 禁止任何形式的广告或推销。 – 没有"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "username": "turingou",
+  "capturedAt": "2026-09-09T08:59:15.073Z",
+  "pages": [
+    {
+      "requestedUrl": "https://github.com/guo-yu",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T08:59:15.072Z",
+      "error": "fetch failed"
+    }
+  ]
+}

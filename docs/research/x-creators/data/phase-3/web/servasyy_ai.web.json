@@ -1,0 +1,29 @@
+{
+  "username": "servasyy_ai",
+  "capturedAt": "2026-09-09T09:00:14.634Z",
+  "pages": [
+    {
+      "requestedUrl": "https://servasyy.com/",
+      "finalUrl": "https://servasyy.com/",
+      "status": 200,
+      "contentType": "text/html",
+      "capturedAt": "2026-09-09T09:00:14.631Z",
+      "title": "SERVASYY LLC | AI-Driven Solutions",
+      "description": "SERVASYY LLC provides AI-driven solutions, technical content strategy, intelligent automation consulting, and custom SaaS development.",
+      "headings": [
+        "Expert Technical Consulting for the AI Era.",
+        "Core Services",
+        "AI Strategy & Implementation Consulting",
+        "Digital Media & Content Research",
+        "Technical Feasibility & Software Evaluation",
+        "Insight-Led Support for Modern Digital Operations",
+        "About SERVASYY LLC",
+        "Applied AI Guidance",
+        "Research-Led Communication",
+        "How We Deliver Value",
+        "Contact Information"
+      ],
+      "pricingSnippets": []
+    }
+  ]
+}

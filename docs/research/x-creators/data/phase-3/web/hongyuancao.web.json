@@ -1,0 +1,52 @@
+{
+  "username": "hongyuancao",
+  "capturedAt": "2026-09-09T08:59:48.214Z",
+  "pages": [
+    {
+      "requestedUrl": "https://notegpt.io/",
+      "finalUrl": "https://notegpt.io/",
+      "status": 200,
+      "contentType": "text/html;charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:48.203Z",
+      "title": "NoteGPT - Your All-in-One AI Learning Assistant. Summarize, Chat & Write – Fast & Free.",
+      "description": "NoteGPT: Boost learning efficiency by 10x with our advanced Summarizer and Generator tools. Specializing in YouTube Video Summarizer and PDF Summarizer, NoteGPT also supports various other content types. Save key insights as personal notes and build your AI-powered notes library for seamless knowledge management.",
+      "headings": [
+        "Your All-in-One AI Learning Assistant",
+        "Loved by Over 80 Million Users Worldwide",
+        "Designed for You",
+        "Students",
+        "Educators",
+        "Professionals",
+        "Researchers",
+        "Creators",
+        "Real Stories, Real Results",
+        "Your Privacy, Our Priority",
+        "Data Security & Protection",
+        "No Third-Party Sharing",
+        "Minimal Collection",
+        "Your Data Rights & Control",
+        "No AI Training Use",
+        "No Hidden Tracking",
+        "Powerful Features, Affordable Plans",
+        "Free Plan",
+        "Unlimited Plan",
+        "Team Plan",
+        "Learn Smarter and Faster, Not Harder",
+        "Frequently Asked Questions",
+        "What is NoteGPT?",
+        "Can NoteGPT handle YouTube videos without subtitles or YouTube playlists?",
+        "Can NoteGPT turn videos or lectures into text?",
+        "Does NoteGPT summarize long documents?",
+        "Can I create voices, podcasts, or audio lessons?",
+        "Can NoteGPT generate visuals or edit images from text?",
+        "Does NoteGPT help with research and writing?",
+        "Can I chat with different AI models inside NoteGPT?"
+      ],
+      "pricingSnippets": [
+        "I Transcriber AI Voices AI Images AI Videos Seedance 2.5 AI Slides AI Agent AI Writer More My Notes Pricing Save 30% Sign In Sign In Products Pricing EurekaMind 2.0 Sign In EurekaMind 2.0 Your All-in-One AI Learning Assistant Designed to help learners and creators wo",
+        "Is NoteGPT free? Yes. Some core features are free, while premium features require a paid plan. See Pricing for details. How do I cancel my subscription? Log in and go to My Subscriptions in your account to cancel. For details, see the Subscription Policy . NoteGPT -",
+        "et 5 Claude Fable 5 Claude Opus 4.8 Gemini 3.5 Flash DeepSeek V4 More Models About NoteGPT Official Pricing About Us Contact Us Privacy Terms Resources FAQ Chrome Extension Edge Extension Blog Guides Use Cases Compare Best EurekaMind 2.0 Copyright 2026 notegpt.io. Al"
+      ]
+    }
+  ]
+}

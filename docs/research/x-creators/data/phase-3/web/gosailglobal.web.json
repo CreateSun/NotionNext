@@ -1,0 +1,82 @@
+{
+  "username": "gosailglobal",
+  "capturedAt": "2026-09-09T09:00:45.086Z",
+  "pages": [
+    {
+      "requestedUrl": "http://gosaillab.com/",
+      "finalUrl": "https://www.gosaillab.com/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:27.811Z",
+      "title": "GoSail Lab | 品牌侧创作者营销合作伙伴",
+      "description": "GoSail Lab 为 AI、SaaS、Web3 与消费品牌提供出海创作者营销、海外达人投放、内容增长策略与结果复盘。",
+      "headings": [
+        "让品牌增长，发生在被信任的内容里。",
+        "好的案例不只展示发了什么，还要展示团队是怎么把结果做出来的。",
+        "Tianfu Agent 200w+ 浏览量传播案例",
+        "飞书多维表格 × AI 视频摘要工具 — 内容种草与试用转化",
+        "FluxA Agent Wallet — Web3 红包活动社群传播",
+        "EverMind MSA — 技术产品爆点内容传播",
+        "品牌需要的不是资源清单，而是能把结果讲清楚的执行系统。",
+        "我们帮助品牌搭建拓海矩阵，让内容、创作者与平台共同形成增长势能。 我们帮助品牌搭建拓海矩阵， 让内容、创作者与平台共同形成增长势能。",
+        "搭建品牌拓海矩阵",
+        "匹配平台与创作者",
+        "统一内容表达与节奏",
+        "复盘数据并持续放大",
+        "品牌买的不是零散任务，而是一套内容增长执行系统。",
+        "达人投放",
+        "内容共创",
+        "直播合作",
+        "种草传播",
+        "让你的品牌传播得 更广、更远、更有影响力",
+        "导航",
+        "联系",
+        "创作者入口"
+      ],
+      "pricingSnippets": []
+    },
+    {
+      "requestedUrl": "http://agentskillshub.top/",
+      "finalUrl": null,
+      "status": null,
+      "capturedAt": "2026-09-09T09:00:43.406Z",
+      "error": "fetch failed"
+    },
+    {
+      "requestedUrl": "http://jasonzhu.ai/",
+      "finalUrl": "https://jasonzhu.ai/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:45.083Z",
+      "title": "JasonZhu.AI - AI应用与实践 | AI工具评测、教程、出海增长",
+      "description": "前AI算法工程师 Jason Zhu 的个人网站。分享AI工具评测、实战教程、行业洞察与出海增长策略，提供企业AI培训、MCN合作与技术咨询服务。涵盖Claude Code、Cursor等主流AI工具深度解析。",
+      "headings": [
+        "Jason Zhu .AI",
+        "最新文章",
+        "AIP出海自媒体实战手册：14天打造X平台写作技能及变现闭环",
+        "JasonZhu.AI 搭建之路：技术栈、实现框架与费用全记录",
+        "AI 赚钱指南（2026 版）：七层生意地图 + 五种交易本质",
+        "我翻了 200+ 个开源 AI Agent Skill：97.8% 从来没人做过安全审计",
+        "英国公司第一年年审实战 Timeline：£228 搞定 + 两个被忽略的省税信息差",
+        "10 大平台 AI 免费学习全景图：学 AI 这两年，一分钱都不用花",
+        "订阅 Newsletter，免费获取完整手册",
+        "关于这个站",
+        "推荐项目",
+        "Agent Skills Hub",
+        "GoSail Lab",
+        "我的服务",
+        "AI 企业培训",
+        "AI MCN",
+        "需求承接",
+        "导航",
+        "服务",
+        "联系"
+      ],
+      "pricingSnippets": [
+        "JasonZhu.AI - AI应用与实践 | AI工具评测、教程、出海增长 Jason Zhu .AI 博客 快讯 Beta AI工具 服务 ⛵ GoSail Club 关于 EN 会员登录 EN 登录 Jason Zhu .AI AI工具评测、实战教程、行业洞察、出海增长策略 ⛵ GoSail Club 启航会 AI 出海实战社群 · ¥365/年 一天一块钱 立即加入 🗺️ 10 大平台 AI 免费学习全景图 学 AI 这两年想花的钱，一分都不用花 免费领取 📘 AIP出海自媒体实战手册 14",
+        "税信息差 刚独立完成英国公司第一年完整年审：Confirmation Statement ✅、Annual Accounts ✅、CT600 等 HMRC 激活码中。总成本 £228（vs 淘宝代办 ¥2000），5 周 + 1 个下午搞定。附完整 Timeline Checklist + 两个独立开发者最容易忽略的省税信息差。 # 英国公司 # 年审 # 出海 教程 2026-05-18 10 大平台 AI 免费学习全景图：学 AI 这两年，一分钱都不用花 Anthropic、OpenAI、Google、NVIDIA",
+        ".AI、Hugging Face——10 大平台的官方 AI 课程全部免费。这是整个系列的总目录页：一张对比表 + 按身份选路径，完整路线全在这里。 # AI 学习 # 免费课程 # 学习路径 📬 订阅 Newsletter，免费获取完整手册 Subscribe即送《AIP出海自媒体实战手册》完整版，还有每周AI精选内容推送 免费订阅 我们尊重你的隐私，不会发送垃圾邮件。可随时退订。 关于这个站 我是 Jason Zhu（祝彦森） ，前 AI 算法工程师，现在全职做 AI 内容、企业培训和出海咨询。这个站上的每一篇教"
+      ]
+    }
+  ]
+}

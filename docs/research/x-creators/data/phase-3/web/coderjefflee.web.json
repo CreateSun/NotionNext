@@ -1,0 +1,28 @@
+{
+  "username": "coderjefflee",
+  "capturedAt": "2026-09-09T08:59:35.921Z",
+  "pages": [
+    {
+      "requestedUrl": "https://bysocket.com/",
+      "finalUrl": "https://bysocket.com/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T08:59:35.918Z",
+      "title": "写增长的子木",
+      "description": "写增长的子木，聚焦 SaaS 出海创业，分享 SEO、红人营销、Ads、EDM 等前沿增长策略，深入解析各类实操案例，帮助创业者实现产品推广和市场扩展。通过丰富的行业经验和详实的内容，为 SaaS 团队提供具实效性的增长见解，助力海外业务快速发展。",
+      "headings": [
+        "GEO 排名因子之一：Entity 和主题权重",
+        "Reddit 蓝海帖挖掘：Research SEO & GEO 增长新机会",
+        "GEO 流量密码因子之一：Fan-out Rank",
+        "Agent Skill 写完就过时了咋办？这套多租户架构说清楚了",
+        "无聊蒸馏自己：长文转爆款社媒帖子 Agent Skill 开源",
+        "SEO 外链建设：从转化数据倒推外链节奏",
+        "Google 后台 GEO 报告灰度了！我的一些观察",
+        "关于子木"
+      ],
+      "pricingSnippets": [
+        "itHub 地址： https://github.c.. SEO 外链建设：从转化数据倒推外链节奏 2026-07-14 SEO 大家都以为为了流量，其实搜索流量过来，还是最终为了转化，包括新注册和新订阅。 1000 个高意图用户，远胜 10000 个泛流量用户。 一、怎么看 SEO 转化数据我是如何看 SEO 转化数据的，表格大概这样，漏斗大概分是这样的。 如上图，按 URL 维度，按周维度： 第一层：新 S.. Google 后台 GEO 报告灰度了！我的一些观察 2026-07-06 今天 Joker 刚跟我分享"
+      ]
+    }
+  ]
+}

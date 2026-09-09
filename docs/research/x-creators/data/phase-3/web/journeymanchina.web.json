@@ -1,0 +1,54 @@
+{
+  "username": "journeymanchina",
+  "capturedAt": "2026-09-09T09:00:30.448Z",
+  "pages": [
+    {
+      "requestedUrl": "http://noteey.com/",
+      "finalUrl": "https://www.noteey.com/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:29.331Z",
+      "title": "Noteey - visual note-taking app for organizing your thoughts",
+      "description": "Noteey is a visual note-taking tool that helps you to think, create, publish on canvas",
+      "headings": [
+        "Your Canvas for Deep Thinking",
+        "Transform How You Think & Create",
+        "Noteey: All-in-one Visual Learning Tool",
+        "What makes Noteey special?",
+        "Offline First",
+        "Local backup and sharing",
+        "PDF Annotations",
+        "All-in-one infinite canvas",
+        "Deep Linking",
+        "Video Note taker",
+        "Drawing Tool",
+        "Presentation mode",
+        "Floating Windows",
+        "What is Noteey used for?",
+        "Research",
+        "Second Brain",
+        "Creative Writing",
+        "Swipe Files",
+        "Mood Board",
+        "Flowchart",
+        "Video highlight",
+        "PDF annotation"
+      ],
+      "pricingSnippets": [
+        "Subtitle Downloader Youtube Note Taker PDF Summarizer PPT Summarizer Word Summarizer Blog Download Pricing Wiki 中文 Account Use Cases Whiteboard Visual Note Taking Presentation Visual Knowledge Base Research Creative Writing Swipe Files Second Brain Moodboard Video n",
+        "Subtitle Downloader Youtube Note Taker PDF Summarizer PPT Summarizer Word Summarizer Blog Download Pricing Wiki Account Your Canvas for Deep Thinking The infinite space to visually learn, brainstorm and turn ideas into insights. Offline, secure, and fast Download Ap"
+      ]
+    },
+    {
+      "requestedUrl": "http://videoshowapp.com/",
+      "finalUrl": "http://videoshowapp.com/",
+      "status": 200,
+      "contentType": "text/html;charset=utf-8",
+      "capturedAt": "2026-09-09T09:00:30.448Z",
+      "title": "VideoShow Vlog Video Editor",
+      "description": "VideoShow - Vlog Video Editor,Video Maker.",
+      "headings": [],
+      "pricingSnippets": []
+    }
+  ]
+}
