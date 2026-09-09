@@ -27,7 +27,7 @@
   - 我是 Owen，是一位开发者，目前居住在上海。我把这里定位成我的数字个人花园，存放我的笔记，想法和生活记录。 这个博客主要分为几个部分： Featured 会列出所有精选的文章，更新频率低 - RSS订阅地址 Latest 也就是首页，for 主动来博客首页逛的人，更新频率较高。这样设计的目的是不打扰大多数订阅用户的同时，让我发布的摩擦力变得更低，以此促进自己的写作（or 思考）。 Archive 则真正囊括了所有的 Posts，更新频率极高。这个主要是给我自己看的。因为我…（[来源](https://www.owenyoung.com/about)）
   - ，它是一个 开源的博客 ，你可以自部署，也可以在 Jant 上一键注册开通。 我一直相信练习写作需要公开表达。只有这样，我们才能让自己的思考变得清晰。但是对我来说，如果每条新内容都要推送给 RSS 订阅者，发布的心理门槛就会提高很多，最后要么不写要么无限推迟。 所以 Jant 想解决的核心问题就是：降低发布的摩擦力，用精心设计的机制鼓励作者多写多发。主要是通过以下 3 种设计： 采用现代 UI，用类似 Threads/Twitter 的方式发帖，支持 Thread，把多个帖…（[来源](https://www.owenyoung.com/about)）
   - 之一。 至此，Jant 基本解决了我对个人博客的所有想像，我也很高兴能制作这种自己会长期使用的工具，如果你也需要这样一个工具，可以从 快速使用文档 这里立刻开始。或者可以看看这篇 为什么要写博客 。 订阅 请通过 RSS 阅读器订阅，我使用 NetNewsWire 客户端来管理我的中文订阅。 精选帖子订阅链接(推荐绝大多数人使用此链接）： https://www.owenyoung.com/feed 如果你真的想看所有的首页帖子/或者任何帖子，下面两个订阅链接是你读到这里的…（[来源](https://www.owenyoung.com/about)）
-  - ww.owenyoung.com/latest/feed 所有帖子的订阅链接： https://www.owenyoung.com/archive/feed 其他的话， Collections 下每个主题都可以单独订阅，格式是： https://www.owenyoung.com/<slug>/feed , 比如: https://www.owenyoung.com/now/feed 我的（[来源](https://www.owenyoung.com/about)）
+  - ww.owenyoung.com/latest/feed 所有帖子的订阅链接： https://www.owenyoung.com/archive/feed 其他的话， Collections 下每个主题都可以单独订阅，格式是： https://www.owenyoung.com/&lt;slug&gt;/feed , 比如: https://www.owenyoung.com/now/feed 我的（[来源](https://www.owenyoung.com/about)）
   - 资料中更多的了解对方。 此刻我多么希望每个 Bumble 上的人都能链接一个自己的博客啊，这样才能有更多的上下文。 （难道应该做一个 Blog Dating App? Ps. 今天发现苹果尼日利亚区的终身会员才人民币 150 左右，我以前开过一个月，但是发现效率其实并不高。所以也许开一个终身版是很有必要的。 Aug 16, 2026 · Now 要坚持早睡早起的习惯，意味着我晚上不能吃的太晚，也不能太晚喝酒或者剧烈运动，也意味着一定要早起，这样才能早点睡着。💪 Aug 1…（[来源](https://www.owenyoung.com/thoughts)）
 
 ## 近期内容表现
