@@ -49,6 +49,8 @@ const CONFIG = {
     'rgba(232, 228, 223, 0.08)',
 
   // Post list and article
+  EDITORIAL_FEATURED_POST_SLUG:
+    process.env.NEXT_PUBLIC_EDITORIAL_FEATURED_POST_SLUG || '',
   EDITORIAL_POST_LIST_COVER:
     process.env.NEXT_PUBLIC_EDITORIAL_POST_LIST_COVER !== 'false',
   EDITORIAL_POST_LIST_CATEGORY:

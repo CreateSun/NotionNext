@@ -2,12 +2,23 @@ import SmartLink from '@/components/SmartLink'
 import { siteConfig } from '@/lib/config'
 import { useGlobal } from '@/lib/global'
 import { useRouter } from 'next/router'
+import CONFIG from '../config'
 import BlogItem from './BlogItem'
 
-export default function BlogListPage({ page = 1, posts = [], postCount = 0 }) {
+export default function BlogListPage({
+  page = 1,
+  posts = [],
+  postCount = 0,
+  home = false
+}) {
   const router = useRouter()
   const { NOTION_CONFIG } = useGlobal()
   const perPage = siteConfig('POSTS_PER_PAGE', 12, NOTION_CONFIG)
+  const featuredPostSlug = siteConfig(
+    'EDITORIAL_FEATURED_POST_SLUG',
+    '',
+    CONFIG
+  )
   const totalPage = Math.ceil(postCount / perPage)
   const currentPage = Number(page)
   const prefix = router.asPath
@@ -21,11 +32,16 @@ export default function BlogListPage({ page = 1, posts = [], postCount = 0 }) {
   return (
     <section className='editorial-list-section'>
       <div id='posts-wrapper' className='editorial-post-list'>
-        {posts.map((post, index) => (
+        {posts.map(post => (
           <BlogItem
             key={post.id}
             post={post}
-            featured={currentPage === 1 && index === 0}
+            featured={
+              home &&
+              currentPage === 1 &&
+              featuredPostSlug &&
+              post.slug === featuredPostSlug
+            }
           />
         ))}
       </div>

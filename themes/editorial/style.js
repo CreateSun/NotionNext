@@ -76,6 +76,7 @@ export const Style = () => {
       .editorial-post-list { border-top: 2px solid var(--editorial-text); }
       .editorial-post-card { display: grid; grid-template-columns: minmax(0, 1fr) 220px; gap: 38px; padding: 34px 0; border-bottom: 1px solid var(--editorial-border); }
       .editorial-post-card.featured { grid-template-columns: minmax(280px, .8fr) minmax(0, 1fr); gap: 60px; align-items: center; padding: 42px 0 50px; }
+      .editorial-post-card.no-cover { grid-template-columns: 1fr; }
       .editorial-post-copy { display: flex; flex-direction: column; align-items: flex-start; }
       .editorial-post-card:not(.featured) .editorial-post-copy { grid-column: 1; grid-row: 1; }
       .editorial-post-card:not(.featured) .editorial-post-cover { grid-column: 2; grid-row: 1; }

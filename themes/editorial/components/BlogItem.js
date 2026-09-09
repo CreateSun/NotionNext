@@ -11,11 +11,13 @@ export default function BlogItem({ post, featured = false }) {
     CONFIG
   )
   const showTags = siteConfig('EDITORIAL_POST_LIST_TAG', false, CONFIG)
-  const cover = post?.pageCoverThumbnail || post?.pageCover
+  const cover = post?.pageCoverThumbnail
+  const hasCover = showCover && Boolean(cover)
 
   return (
-    <article className={`editorial-post-card ${featured ? 'featured' : ''}`}>
-      {showCover && cover && (
+    <article
+      className={`editorial-post-card ${featured ? 'featured' : ''} ${hasCover ? 'has-cover' : 'no-cover'}`}>
+      {hasCover && (
         <SmartLink href={post.href} className='editorial-post-cover'>
           <LazyImage src={cover} className='editorial-post-cover-image' />
         </SmartLink>
